@@ -16,7 +16,7 @@ FASCINANTS FAITS DIVERS
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation \*; autoplay; encrypted-media"></iframe>\\
 
 [La moindre histoire](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-25-la-moindre-histoire?id=11844682)\
-"Il n'y a pas de petits sujets, il n'y a que de petits journalistes". À vélo, calepin dans la poche, guettant les failles de la routine urbaine genevoise, Thierry Mertenat est localier à la Tribune de Genève. Avec son compère le photographe Laurent Guiraud, ils précèdent de peu pompiers, secouristes et policiers. Mais de nouveaux concurrents sont apparus, les lecteurs-reporters, dont la journaliste à 20 minutes Sophie Zuber réceptionne les photos.
+"Il n'y a pas de petits sujets, il n'y a que de petits journalistes". À vélo, calepin dans la poche, guettant les failles de la routine urbaine genevoise, Thierry Mertenat est localier à la Tribune de Genève. Avec son compère le photographe Laurent Guiraud, ils précèdent de peu pompiers, secouristes et policiers. Mais de nouveaux concurrents sont apparus, les lecteurs-reporters, dont la journaliste à 20 minutes Sophie Zuber réceptionne les photos.\
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11844682&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 2/5 - La moindre histoire' allow="geolocation \*; autoplay; encrypted-media"></iframe>\\
 \
 
