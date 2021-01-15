@@ -10,10 +10,15 @@ weight: 1
 \
 FASCINANTS FAITS DIVERS\
 [C'est arrivé près de chez nous](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-15-cest-arrive-pres-de-chez-nous?id=11841282)\
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 [La moindre histoire](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-25-la-moindre-histoire?id=11844682)\
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 [La part des ténèbres](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-35-la-part-des-tenebres?id=11847254)\
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 [Chronique du dernier acte](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-45-chronique-du-dernier-acte?id=11849725)\
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 [Au risque de l'émotion](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-55-au-risque-de-lemotion?id=11812630)\
+<iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11841282&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 1/5 - Cʹest arrivé près de chez nous' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 \
 \
 MEMOIRE : LA PUISSANCE DU LIEU\
