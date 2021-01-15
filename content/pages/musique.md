@@ -28,10 +28,11 @@ et d’une irrévérencieuse variété africaine électronique.\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEFR3YgjQ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 
 
-[SOUS-TERRE](https://sous-terre.bandcamp.com/album/live-at-cave-12-030917)
-Cherche le hip-hop exclusivement sous la terre et sous la mer\
-pour donner la parole aux oubliés du rap : cailloux, racines, animaux enfouis.\
-Muni minimalistement de rythmes électroniques et de champignons analogiques,\
-Sous-Terre smurfe en liberté sous de mal connues surfaces.\
+[SOUS-TERRE](https://sous-terre.bandcamp.com/album/live-at-cave-12-030917)\
+
+Cherche le hip-hop exclusivement sous la terre et sous la mer
+pour donner la parole aux oubliés du rap : cailloux, racines, animaux enfouis.
+Muni minimalistement de rythmes électroniques et de champignons analogiques,
+Sous-Terre smurfe en liberté sous de mal connues surfaces.
 \
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=676546992/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sous-terre.bandcamp.com/album/live-at-cave-12-030917">Live at Cave 12. 03.09.17 by SOUS-TERRE</a></iframe>
