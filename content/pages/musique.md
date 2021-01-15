@@ -44,3 +44,9 @@ Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2309961344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://troiscollines.bandcamp.com/album/trois-collines">Trois-Collines by Trois-Collines</a></iframe>\
 \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6v8JjeGkeU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+ALPEN DYNAMO\
+\
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=429165415/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://alpendynamo.bandcamp.com/album/alpen-dynamo">alpen dynamo by alpen dynamo</a></iframe>
