@@ -1,22 +1,80 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Document</title>
+    <title>Jonas Pool</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+<style>
+     html, *, *:before, *:after {
+         box-sizing: border-box;
+     }
+
+     body {
+         background: rgb(69,69,69);
+        background: radial-gradient(circle, rgba(69,69,69,1) 0%, rgba(0,0,0,1) 100%);
+         color: #eee;
+     }
+
+     .menu {
+         height: 100vh;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         list-style-type: none;
+         margin-left: 0;
+         padding-left: 0;
+     }
+
+     .menu > li {
+         text-transform: uppercase;
+         font-size: 3.4rem;
+    font-family: 'Staatliches', cursive;
+     }
+
+     .menu > li > a {
+        color: #eee;
+        text-decoration: none;
+     }
+
+     .menu > li > a:hover, .menu > li > a:focus {
+        text-shadow: 0 5px 10px #eee;
+     }
+
+      .container {
+          max-width: 1200px;
+          margin: 0 auto;
+      }
+
+ h2 {
+     text-align: center;
+     font-size: 3rem;
+     font-family: 'Staatliches', cursive;
+     color: #eee;
+ }
+    </style>
   </head>
   <body>
-  <h1>Nice. It's looking good already.</h1>
-  <ul>
-    {{ range (where .Pages "Section" "blog") }}
-    <li>
-      <a href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-    </li>
-    {{ end }}
-  </ul>
-</body>
+    {{ $pages := sort (where (where .Site.Pages "Kind" "page") "Section" "pages") "Weight" }}
+
+    <div class="container">
+      <ul class="menu">
+        {{ range $pages }}
+        <li>
+          <a href="#{{ anchorize .Title }}">
+            {{ .Title }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      {{ range $pages }}
+        <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>
+        {{ .Content }}
+      {{ end }}
+    </div>
+  </body>
 </html>
