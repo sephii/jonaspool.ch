@@ -17,6 +17,7 @@
          background: rgb(69,69,69);
         background: radial-gradient(circle, rgba(69,69,69,1) 0%, rgba(0,0,0,1) 100%);
          color: #eee;
+         font-size: 1.4rem;
      }
 
      .menu {
@@ -36,12 +37,11 @@
     font-family: 'Staatliches', cursive;
      }
 
-     .menu > li > a {
+     a {
         color: #eee;
-        text-decoration: none;
      }
 
-     .menu > li > a:hover, .menu > li > a:focus {
+     a:hover, a:focus {
         text-shadow: 0 5px 10px #eee;
      }
 
@@ -53,9 +53,16 @@
  h2 {
      text-align: center;
      font-size: 3rem;
+     margin-bottom: 2rem;
+     margin-top: 5rem;
      font-family: 'Staatliches', cursive;
      color: #eee;
  }
+
+ section {
+     text-align: center;
+ }
+
     </style>
   </head>
   <body>
@@ -72,8 +79,10 @@
         {{ end }}
       </ul>
       {{ range $pages }}
-        <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>
-        {{ .Content }}
+        <section>
+            <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>
+            {{ .Content }}
+        </section>
       {{ end }}
     </div>
   </body>
