@@ -6,9 +6,9 @@ weight: 1
 ---
 © RTS - Vacarme\
 \
-2020\
-\
-FASCINANTS FAITS DIVERS
+2020
+
+### Fascinants faits divers
 
 \
 [C'est arrivé près de chez nous](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-15-cest-arrive-pres-de-chez-nous?id=11841282)\
@@ -27,8 +27,17 @@ La part des ténèbres(<https://www.rts.ch/play/radio/vacarme/audio/faits-divers
 \\[Au risque de l'émotion](https://www.rts.ch/play/radio/vacarme/audio/faits-divers-55-au-risque-de-lemotion?id=11812630)\
 <iframe src='//tp.srgssr.ch/p/srf/embed?urn=urn:rts:audio:11812630&start=' allowfullscreen width='392' height='58' frameborder='0' name='Faits divers 5/5 - Au risque de lʹémotion' allow="geolocation *; autoplay; encrypted-media"></iframe>\
 \
-\
-MEMOIRE : LA PUISSANCE DU LIEU\
+
+### Mémoire : la puissance du lieu
+
+{{< grid >}}
+    {{< player title="À l’écoute du virus" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
+    {{< player title="Nous sommes ici rassemblés" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
+    {{< player title="Déboulonner les statues" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
+    {{< player title="La tragédie en spectacle" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
+    {{< player title="Comment se souvenir de Bonfol" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
+{{< /grid >}}
+
 \\[A l'écoute du virus](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-15-a-lecoute-du-virus?id=11601356)\
 \\[Nous sommes ici rassemblés](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-25-nous-sommes-ici-rassembles?id=11604981)\
 \\[Déboulonner les statues](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-35-deboulonner-les-statues?id=11607945)\
