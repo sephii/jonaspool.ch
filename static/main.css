@@ -1,0 +1,79 @@
+html, *, *:before, *:after {
+  box-sizing: border-box;
+}
+
+:root {
+  --red: #fb475e;
+  --green: #019992;
+  --mint: #44ee77;
+  --orange: #ffb001;
+}
+
+body {
+  background: rgb(69,69,69);
+  background: radial-gradient(circle, rgba(69,69,69,1) 0%, rgba(0,0,0,1) 100%);
+  color: #eee;
+  font-size: 1.4rem;
+}
+
+.main {
+  
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.menu > li {
+  text-transform: uppercase;
+  font-size: 3.4rem;
+  font-family: 'Staatliches', cursive;
+}
+
+a {
+  color: #eee;
+  text-shadow: 0 0 5px var(--orange);
+  text-decoration-color: var(--orange);
+}
+
+a:hover {
+  text-shadow: 0 0 5px var(--mint);
+  
+}
+
+.menu a {
+  text-shadow: none;
+}
+
+.menu a:hover, .menu a:focus {
+  text-shadow: 0 -5px 10px var(--mint);
+  text-decoration-color: var(--mint);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  margin-top: 5rem;
+  font-family: 'Staatliches', cursive;
+
+  text-shadow: 0 -5px 10px var(--mint);
+}
+
+section {
+  text-align: center;
+}
+

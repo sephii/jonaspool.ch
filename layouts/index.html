@@ -6,69 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Jonas Pool</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
-<style>
-     html, *, *:before, *:after {
-         box-sizing: border-box;
-     }
-
-     body {
-         background: rgb(69,69,69);
-        background: radial-gradient(circle, rgba(69,69,69,1) 0%, rgba(0,0,0,1) 100%);
-         color: #eee;
-         font-size: 1.4rem;
-     }
-
-     .menu {
-         height: 100vh;
-         display: flex;
-         flex-direction: column;
-         justify-content: center;
-         align-items: center;
-         list-style-type: none;
-         margin-left: 0;
-         padding-left: 0;
-     }
-
-     .menu > li {
-         text-transform: uppercase;
-         font-size: 3.4rem;
-    font-family: 'Staatliches', cursive;
-     }
-
-     a {
-        color: #eee;
-     }
-
-     a:hover, a:focus {
-        text-shadow: 0 5px 10px #eee;
-     }
-
-      .container {
-          max-width: 1200px;
-          margin: 0 auto;
-      }
-
- h2 {
-     text-align: center;
-     font-size: 3rem;
-     margin-bottom: 2rem;
-     margin-top: 5rem;
-     font-family: 'Staatliches', cursive;
-     color: #eee;
- }
-
- section {
-     text-align: center;
- }
-
-    </style>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
   </head>
   <body>
     {{ $pages := sort (where (where .Site.Pages "Kind" "page") "Section" "pages") "Weight" }}
 
     <div class="container">
+        <div class="main">
+        <div style="text-align: center">
+        <img src="/images/logo.png" alt="" style="display: block; max-width: 100%"/>
+        </div>
       <ul class="menu">
         {{ range $pages }}
         <li>
@@ -78,6 +27,7 @@
         </li>
         {{ end }}
       </ul>
+        </div>
       {{ range $pages }}
         <section>
             <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>

@@ -14,4 +14,5 @@ collections:
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Poids (plus lourd en bas)', name: 'weight', widget: 'number' }
+      - { label: 'Répétable', name: 'repeatabletest', widget: 'list', fields: [ { label: "URL", name: "url", widget: "string" } ] }
       - { label: 'Corps', name: 'body', widget: 'markdown' }
