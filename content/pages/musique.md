@@ -4,14 +4,14 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some music
 weight: 0
 ---
-SEPT SCAROLES\
+[SEPT SCAROLES](https://septscaroles.bandcamp.com/)\
 \
 C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui chantent.\
 Ca détourne en français des proverbes canins créoles, s’émerveille des bad boys et glorifie les pauvres.\
 Sept Scaroles c’est le croisement bâtard d’un hip-hop millénaire\
 et d’une irrévérencieuse variété africaine électronique.\
 \
-[A RAIA NEGRA (2019)](https://septscaroles.bandcamp.com/album/a-raia-negra)\
+\
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/a-raia-negra">A RAIA NEGRA by Sept Scaroles</a></iframe>\
 \
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837772474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/le-chef-du-village">LE CHEF DU VILLAGE by Sept Scaroles</a></iframe>\
@@ -28,7 +28,7 @@ et d’une irrévérencieuse variété africaine électronique.\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEFR3YgjQ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 
 
-SOUS-TERRE
+[SOUS-TERRE](https://sous-terre.bandcamp.com/album/live-at-cave-12-030917)
 Cherche le hip-hop exclusivement sous la terre et sous la mer\
 pour donner la parole aux oubliés du rap : cailloux, racines, animaux enfouis.\
 Muni minimalistement de rythmes électroniques et de champignons analogiques,\
