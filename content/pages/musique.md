@@ -36,3 +36,11 @@ Muni minimalistement de rythmes électroniques et de champignons analogiques,
 Sous-Terre smurfe en liberté sous de mal connues surfaces.
 \
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=676546992/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://sous-terre.bandcamp.com/album/live-at-cave-12-030917">Live at Cave 12. 03.09.17 by SOUS-TERRE</a></iframe>
+
+TROIS COLLINES\
+\
+Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les campagnes des trois premiers millénaires.\
+\
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2309961344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://troiscollines.bandcamp.com/album/trois-collines">Trois-Collines by Trois-Collines</a></iframe>\
+\
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6v8JjeGkeU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
