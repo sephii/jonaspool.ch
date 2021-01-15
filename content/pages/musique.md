@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some music
 weight: 0
 ---
-### [SEPT SCAROLES](https://septscaroles.bandcamp.com/)
+### SEPT SCAROLES
 
 C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui chantent. Ca détourne en français des proverbes canins créoles, s’émerveille des bad boys et glorifie les pauvres. Sept Scaroles c’est le croisement bâtard d’un hip-hop millénaire et d’une irrévérencieuse variété africaine électronique.\
 \
