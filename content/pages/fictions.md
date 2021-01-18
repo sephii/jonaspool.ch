@@ -34,7 +34,7 @@ weight: 3
 **2014**\
 \
 [Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
-*Le parcours fantasmé de l'équipe suisse au mondial brésilien.*\
+*Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
 \
 \
 **2013**\
