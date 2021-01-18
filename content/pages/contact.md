@@ -6,4 +6,4 @@ weight: 5
 ---
 Jonas Pool vit et travaille à Lausanne, en Suisse.\
 \
-jonas.pool arrobas gmail.com
+jonas.pool at gmail.com
