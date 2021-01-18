@@ -12,7 +12,7 @@ weight: 2
 *Conclusion : champignons.*\
 \
 [Bibliothécologie Vol. 1](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-i?id=11762839)\
-*Montage d'archives RTS.*\
+*Les bibliothèques dans les archives de la RTS.*\
 \
 \
 2019\
@@ -42,4 +42,13 @@ weight: 2
 2015\
 \
 [Les fruits de la paresse](https://www.rts.ch/play/radio/le-labo/audio/le-labo?id=7216895)\
-*Le paresseux n'est pas qu'une créature de la jungle.*
+*Le paresseux n'est pas qu'une créature de la jungle.*\
+\
+[Guerriers de la paix](https://www.rts.ch/play/radio/le-labo/audio/guerriers-de-la-paix?id=6694739)\
+*Eté 1990. Résistance des amérindiens Mohawk dans une pinède près de Montréal.*\
+\
+[Marcheurs du ciel](https://www.rts.ch/play/radio/le-labo/audio/marcheurs-du-ciel?id=6427512)\
+*Oui, les Mohawks constructeurs de gratte-ciels ont aussi le vertige.*\
+\
+[Demain les Innus](https://www.rts.ch/play/radio/le-labo/audio/le-labo?id=6731666)\
+*Nitassinan, territoire ancestral du peuple Innu, morcelé par les mines et les barrages.*
