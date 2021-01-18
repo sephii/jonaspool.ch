@@ -16,4 +16,28 @@ weight: 3
 **2019**\
 \
 [Cueilleuse de lumière](https://www.rts.ch/play/radio/le-labo/audio/dakar-le-grand-voyage?id=10104577) (début à 29'48)\
-*Dakar plongée dans la nuit totale.*
+*Dakar plongée dans la nuit totale.*\
+\
+\
+**2017**\
+\
+[Les évadés du Spitzberg](https://www.rts.ch/play/radio/le-labo/audio/les-evades-du-spitzberg?id=9000265&station=a83f29dee7a5d0d3f9fccdb9c92161b1afb512db)\
+*Une résidence d'artiste dans l'Arctique sur un voilier maudit.*\
+\
+\
+**2015**\
+\
+[La sanza rythme mes pas](https://pages.rts.ch/espace-2/programmes/le-labo/6631887-le-labo-du-12-04-2015.html)\
+*Le voyage initiatique d'une lamellophoniste muette et d'une ethnomusicologue.*\
+\
+\
+**2014**\
+\
+[Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
+*Le parcours fantasmé de l'équipe suisse au mondial brésilien.*\
+\
+\
+**2013**\
+\
+[Shéhérazade chez Rose de mai](https://www.rts.ch/play/radio/le-labo/audio/les-1001-nuits-de-sheherazade?id=5003905)\
+*La patronne d'un bordel réinvente les mille et une nuits.*
