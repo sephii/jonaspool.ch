@@ -43,4 +43,23 @@ weight: 1
 [Plus chauds que le climat](https://www.rts.ch/play/radio/vacarme/audio/effondrement-25-plus-chaud-que-le-climat?id=10732917)\
 [Sobre pour survivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-35-sobre-pour-survivre?id=10735087)\
 [La fin du monde, des histoires sans fin](https://www.rts.ch/play/radio/vacarme/audio/effondrement-45-la-fin-du-monde-des-histoires-sans-fin?id=10738533)\
+[Vivre et laisser vivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-55-vivre-et-laisser-vivre?id=10740862)\
+\
+\
+\
+**2018**
+
+### Appropriation culturelle\
+[L'utopie de la world music](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-15-lutopie-de-la-world-music?id=9865055)\
+[Bihor contre Dior](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-25-bihor-contre-dior?id=9869024)\
+[Holi soit qui mal y pense](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-35-holi-soit-qui-mal-y-pense?id=10539232)\
+[Les cultures ne sont pas des costumes](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-45-les-cultures-ne-sont-pas-des-costumes?id=9874386)\
+[Les traditions face à la loi](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-55-les-traditions-face-a-la-loi?id=9876922&station=a9e7621504c6959e35c3ecbe7f6bed0446cdf8da)
+
+### Faut-il craindre l'effondrement ?
+
+[Collapse or not collapse](https://www.rts.ch/play/radio/vacarme/audio/effondrement-15-collapse-or-not-collapse?id=10729172)\
+[Plus chauds que le climat](https://www.rts.ch/play/radio/vacarme/audio/effondrement-25-plus-chaud-que-le-climat?id=10732917)\
+[Sobre pour survivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-35-sobre-pour-survivre?id=10735087)\
+[La fin du monde, des histoires sans fin](https://www.rts.ch/play/radio/vacarme/audio/effondrement-45-la-fin-du-monde-des-histoires-sans-fin?id=10738533)\
 [Vivre et laisser vivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-55-vivre-et-laisser-vivre?id=10740862)
