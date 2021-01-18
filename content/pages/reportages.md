@@ -66,6 +66,7 @@ weight: 1
 [La sourde oreille](https://www.rts.ch/play/radio/vacarme/audio/bruits-55-la-sourde-oreille?id=10033328)\
 \
 \
+\
 **2017**
 
 ### Jeunes et pauvres en Suisse
@@ -91,6 +92,7 @@ weight: 1
 [De gré ou de force](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-de-gre-ou-de-force?id=9189495)\
 [Surveiller et saisir](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-surveiller-et-saisir?id=8847999)\
 [Le dernier geste](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-le-dernier-geste?id=8850217)\
+\
 \
 \
 **2016**
@@ -128,6 +130,7 @@ weight: 1
 [Le porno est mort, vive le porno !](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-55?id=8038113)\
 \
 \
+\
 **2015**
 
 ### A qui appartient la rue ?
@@ -147,6 +150,7 @@ weight: 1
 [Un vieux poète dans le vent](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-55?id=6858777)\
 \
 \
+\
 **2014**
 
 ### La cigarette est-elle grillée ?
@@ -164,6 +168,7 @@ weight: 1
 [Révisionnisme culturel](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-35?id=6011442)\
 [Les pouvoirs magiques](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-45?id=6011497)\
 [Tic-tac au port du Rhin](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-55?id=6011586)\
+\
 \
 \
 **2013**
