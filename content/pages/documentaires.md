@@ -15,11 +15,18 @@ weight: 2
 [Bibliothécologie Vol. 1](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-i?id=11762839)\
 *Les bibliothèques dans les archives de la Radio Télévision Suisse.*\
 \
+[Les marcheurs](https://www.rts.ch/play/radio/le-labo/audio/les-marcheurs?id=10974395)\
+*On a retrouvé les enregistrements des camps de marche de mon adolescence.*\
+\
 \
 **2019**\
 \
 [Virigine Rebetez, une photographe entre deux mondes](https://www.rts.ch/play/radio/le-labo/audio/virginie-rebetez-une-photographe-entre-deux-mondes?id=10916094)\
 *Pour révéler les traces laissées par les morts et les disparus.*\
+\
+[Cueilleuse de lumière](https://www.rts.ch/play/radio/le-labo/audio/dakar-le-grand-voyage?id=10104577) (début à 29'48)\
+*Dakar plongée dans la nuit totale.*\
+\
 \
 \
 **2018**\
@@ -60,6 +67,9 @@ weight: 2
 [Un fertile enfer](https://www.rts.ch/play/radio/le-labo/audio/un-fertile-enfer?id=7315132)\
 *Des réfugiés Hmongs laotiens dans l'Amazonie guyanaise.*\
 \
+[La sanza rythme mes pas](https://pages.rts.ch/espace-2/programmes/le-labo/6631887-le-labo-du-12-04-2015.html)\
+*Le voyage initiatique d'une lamellophoniste muette et d'une ethnomusicologue.*\
+\
 \
 **2014**\
 \
@@ -69,6 +79,9 @@ weight: 2
 [Djambala, la métamorphose des lucioles](https://www.rts.ch/play/radio/le-labo/audio/djambala-la-metamorphose-des-lucioles?id=5616947)\
 *La modernisation accélérée d'une ville congolaise (RC).*\
 \
+[Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
+*Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
+\
 \
 **2013**\
 \
@@ -77,6 +90,9 @@ weight: 2
 \
 [Sava, une légende sans visage](https://www.rts.ch/play/radio/le-labo/audio/sava-une-legende-sans-visage?id=5003570)\
 *Portrait curieux d'un énigmatique absent.*\
+\
+[Shéhérazade chez Rose de mai](https://www.rts.ch/play/radio/le-labo/audio/les-1001-nuits-de-sheherazade?id=5003905)\
+*La patronne d'un bordel réinvente les mille et une nuits.*\
 \
 \
 **2012**\
