@@ -25,7 +25,7 @@ weight: 2
 **2018**\
 \
 [Un homme sous le volcan](https://www.rts.ch/play/radio/le-labo/audio/un-homme-sous-le-volcan?id=10072410)\
-*Cap Vert, île de Fogo. Danilo Fontes vit dans le cratère.*\
+*Cap Vert, île de Fogo. Danilo Fontes cherche sa maison dans le cratère.*\
 \
 \
 **2017**\
