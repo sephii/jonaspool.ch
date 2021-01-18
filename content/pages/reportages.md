@@ -125,4 +125,53 @@ weight: 1
 [X majuscule](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-25?id=8028977)\
 [Une affaire de famille](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-35?id=8032723)\
 [Sexe en eaux troubles](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-45?id=8035525)\
-[Le porno est mort, vive le porno !](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-55?id=8038113)
+[Le porno est mort, vive le porno !](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-55?id=8038113)\
+\
+\
+**2015**
+
+### A qui appartient la rue ?
+
+[Villes-clônes en toute franchise](https://www.rts.ch/play/radio/vacarme/audio/a-qui-appartient-la-rue-15?id=7199622)\
+[Sous les pavés la plage](https://www.rts.ch/play/radio/vacarme/audio/a-qui-appartient-la-rue-25?id=7202811)\
+[La meilleure façon de marcher](https://www.rts.ch/play/radio/vacarme/audio/a-qui-appartient-la-rue-35?id=7205977)\
+[Circulez y'a rien pour s'asseoir](https://www.rts.ch/play/radio/vacarme/audio/a-qui-appartient-la-rue-45?id=7209433)\
+[A la rue](https://www.rts.ch/play/radio/vacarme/audio/a-qui-appartient-la-rue-55?id=7212410)
+
+### Bons baisers de Bastia
+
+[Le bateau dans les maisons](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-15?id=6858209)\
+[Souvenirs d'un enfant pauvre](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-25?id=6858342)\
+[Saint-Antoine priez pour nous](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-35?id=6858597)\
+[Les héros et la misère](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-45?id=6859031)\
+[Un vieux poète dans le vent](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-bastia-55?id=6858777)\
+\
+\
+**2014**
+
+### La cigarette est-elle grillée ?
+
+[La dépendance passée à tabac](https://www.rts.ch/play/radio/vacarme/audio/la-cigarette-est-elle-grillee-15?id=5823273)\
+[Burrus est mort, vive Burrus !](https://www.rts.ch/play/radio/vacarme/audio/la-cigarette-est-elle-grillee-25?id=5825970)\
+[Tapis rouge pour l'industrie](https://www.rts.ch/play/radio/vacarme/audio/la-cigarette-est-elle-grillee-35?id=5829735)\
+[Arrêter de fumer comme un turc](https://www.rts.ch/play/radio/vacarme/audio/la-cigarette-est-elle-grillee-45?id=5832674)\
+[Ecran de fumée](https://www.rts.ch/play/radio/vacarme/audio/la-cigarette-est-elle-grillee-55?id=5835644)
+
+### Bons baisers de Strasbourg
+
+[Le laboratoire de tourisme expérimental](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-15?id=6011250)\
+[Quartier chaud et chaleur humaine](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-25?id=6011287)\
+[Révisionnisme culturel](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-35?id=6011442)\
+[Les pouvoirs magiques](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-45?id=6011497)\
+[Tic-tac au port du Rhin](https://www.rts.ch/play/radio/bons-baisers-de----/audio/bons-baisers-de-strasbourg-55?id=6011586)\
+\
+\
+**2013**
+
+### Il n'y a pas d'âge pour être discriminé
+
+[Age cathodique](https://www.rts.ch/play/radio/vacarme/audio/il-ny-a-pas-dage-pour-etre-discrimine-15?id=4896648)\
+[Jeunes loups et vieux renards](https://www.rts.ch/play/radio/vacarme/audio/il-ny-a-pas-dage-pour-etre-discrimine-25?id=4899877)\
+[Une voix pour les enfants](https://www.rts.ch/play/radio/vacarme/audio/il-ny-a-pas-dage-pour-etre-discrimine-35?id=4903364)\
+[Au bord de l'âge](https://www.rts.ch/play/radio/vacarme/audio/il-ny-a-pas-dage-pour-etre-discrimine-45?id=4906652)\
+[L'âge du futur](https://www.rts.ch/play/radio/vacarme/audio/il-ny-a-pas-dage-pour-etre-discrimine-55?id=4909773)
