@@ -10,18 +10,17 @@ C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui 
 \
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/a-raia-negra">A RAIA NEGRA by Sept Scaroles</a></iframe>
 
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837772474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/le-chef-du-village">LE CHEF DU VILLAGE by Sept Scaroles</a></iframe>
 
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=79503392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/aieux-dans-les-ronces">AIEUX DANS LES RONCES by Sept Scaroles</a></iframe>
-
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3090103580/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/mc-skol">MC SKOL by Sept Scaroles</a></iframe>
 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRBGFnEHG9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEFR3YgjQ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -77,15 +76,7 @@ Tendance Catalogue se la raconte grave. Son cocktail sucré-acide de musiques sy
 \
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lbqXmoBms4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 \
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJHao73aV9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
-\
-\
-\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9DEdJbE9FdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJHao73aV9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
