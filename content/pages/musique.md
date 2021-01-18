@@ -8,17 +8,21 @@ weight: 0
 
 C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui chantent. Ca détourne en français des proverbes canins créoles, s’émerveille des bad boys et glorifie les pauvres. Sept Scaroles c’est le croisement bâtard d’un hip-hop millénaire et d’une irrévérencieuse variété africaine électronique.\
 \
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/a-raia-negra">A RAIA NEGRA by Sept Scaroles</a></iframe>\
-\
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837772474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/le-chef-du-village">LE CHEF DU VILLAGE by Sept Scaroles</a></iframe>\
-\
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=79503392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/aieux-dans-les-ronces">AIEUX DANS LES RONCES by Sept Scaroles</a></iframe>\
-\
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/a-raia-negra">A RAIA NEGRA by Sept Scaroles</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837772474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/le-chef-du-village">LE CHEF DU VILLAGE by Sept Scaroles</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=79503392/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/aieux-dans-les-ronces">AIEUX DANS LES RONCES by Sept Scaroles</a></iframe>
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3090103580/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/mc-skol">MC SKOL by Sept Scaroles</a></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TRBGFnEHG9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pEFR3YgjQ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRBGFnEHG9c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEFR3YgjQ24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Sous-Terre
 
@@ -30,9 +34,13 @@ Cherche le hip-hop exclusivement sous la terre et sous la mer pour donner la par
 
 Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les campagnes des trois premiers millénaires.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2309961344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://troiscollines.bandcamp.com/album/trois-collines">Trois-Collines by Trois-Collines</a></iframe>\
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2309961344/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://troiscollines.bandcamp.com/album/trois-collines">Trois-Collines by Trois-Collines</a></iframe>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6v8JjeGkeU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### Alpen Dynamo
 
