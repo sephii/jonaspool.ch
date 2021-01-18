@@ -22,4 +22,22 @@ weight: 1
 [Nous sommes ici rassemblés](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-25-nous-sommes-ici-rassembles?id=11604981)\
 [Déboulonner les statues](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-35-deboulonner-les-statues?id=11607945)\
 [La tragédie en spectacle](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-45-la-tragedie-en-spectacle?id=11610164)\
-[Comment se souvenir de Bonfol ?](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-55-comment-se-souvenir-de-bonfol?id=11612904)
+[Comment se souvenir de Bonfol ?](https://www.rts.ch/play/radio/vacarme/audio/lieux-de-memoire-55-comment-se-souvenir-de-bonfol?id=11612904)\
+\
+**2019**
+
+### Zoos, de l'autre côté des grilles
+
+[Le mal-être animal](https://www.rts.ch/play/radio/vacarme/audio/zoos-15-le-mal-etre-animal?id=10963958)\
+[Les cages et la com’](https://www.rts.ch/play/radio/vacarme/audio/zoos-25-les-cages-et-la-com?id=10966946)\
+[Des carnets pas si roses](https://www.rts.ch/play/radio/vacarme/audio/zoos-35-des-carnets-pas-si-roses?id=10968736)\
+[Le paradis perdu](https://www.rts.ch/play/radio/vacarme/audio/zoos-45-le-paradis-perdu?id=10969773)\
+[Gorilles sans la brume](https://www.rts.ch/play/radio/vacarme/audio/zoos-55-gorille-sans-la-brume?id=10971503)
+
+### Faut-il craindre l'effondrement ?
+
+[Collapse or not collapse](https://www.rts.ch/play/radio/vacarme/audio/effondrement-15-collapse-or-not-collapse?id=10729172)\
+[Plus chauds que le climat](https://www.rts.ch/play/radio/vacarme/audio/effondrement-25-plus-chaud-que-le-climat?id=10732917)\
+[Sobre pour survivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-35-sobre-pour-survivre?id=10735087)\
+[La fin du monde, des histoires sans fin](https://www.rts.ch/play/radio/vacarme/audio/effondrement-45-la-fin-du-monde-des-histoires-sans-fin?id=10738533)\
+[Vivre et laisser vivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-55-vivre-et-laisser-vivre?id=10740862)
