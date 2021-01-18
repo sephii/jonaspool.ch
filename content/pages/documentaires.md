@@ -6,6 +6,7 @@ weight: 2
 ---
 © RTS, Le labo / Babylone\
 \
+\
 **2020**\
 \
 [Vivent les spores](https://www.rts.ch/play/radio/le-labo/audio/vivent-les-spores?id=11712468)\
@@ -102,4 +103,7 @@ weight: 2
 **2011**\
 \
 [Brûleurs de frontières](https://www.rts.ch/play/radio/le-labo/audio/les-bruleurs-de-frontiere?id=6844965)\
-*D'Istanbul à Patras, à la recherche d'un passage.*
+*D'Istanbul à Patras, à la recherche d'un passage.*\
+\
+[Le caca c'est pas de la merde](https://www.rts.ch/play/radio/le-labo/audio/le-caca-cest-pas-de-la-m---?id=3491151)\
+*Tout le monde y va, personne n'en parle.*
