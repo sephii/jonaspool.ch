@@ -6,15 +6,8 @@ weight: 0
 ---
 ### SEPT SCAROLES
 
-C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui chantent. Ca détourne en français des proverbes canins créoles, s’émerveille des bad boys et glorifie les pauvres. Sept Scaroles c’est le croisement bâtard d’un hip-hop millénaire et d’une irrévérencieuse variété africaine électronique.
-
-{{< grid >}}
-    {{< player title="A Raia Negra" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
-    {{< player title="Le Chef du Village" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
-    {{< player title="Aïeux dans les Ronces" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
-    {{< player title="Mc Skol" url="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" >}}
-{{< /grid >}}
-
+C’est parfois du RAP (Rythm And Poetry) documentaire, parfois des enfants qui chantent. Ca détourne en français des proverbes canins créoles, s’émerveille des bad boys et glorifie les pauvres. Sept Scaroles c’est le croisement bâtard d’un hip-hop millénaire et d’une irrévérencieuse variété africaine électronique.\
+\
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3425317218/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/a-raia-negra">A RAIA NEGRA by Sept Scaroles</a></iframe>\
 \
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=837772474/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://septscaroles.bandcamp.com/album/le-chef-du-village">LE CHEF DU VILLAGE by Sept Scaroles</a></iframe>\
