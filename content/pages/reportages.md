@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 1
 ---
-© RTS - Vacarme\
+© RTS - Vacarme / Bons baisers\
 \
 \
 **2020**
@@ -49,7 +49,8 @@ weight: 1
 \
 **2018**
 
-### Un copyright sur les cultures ?\
+### Un copyright sur les cultures ?
+
 [L'utopie de la world music](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-15-lutopie-de-la-world-music?id=9865055)\
 [Bihor contre Dior](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-25-bihor-contre-dior?id=9869024)\
 [Holi soit qui mal y pense](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-35-holi-soit-qui-mal-y-pense?id=10539232)\
@@ -62,4 +63,31 @@ weight: 1
 [L'oreille comme cible](https://www.rts.ch/play/radio/vacarme/audio/bruits-25-loreille-comme-cible?id=10025810)\
 [Boucan d'enfer](https://www.rts.ch/play/radio/vacarme/audio/bruits-35-boucan-denfer?id=10028419)\
 [La passion du bruit](https://www.rts.ch/play/radio/vacarme/audio/bruits-45-la-passion-du-bruit?id=10030894)\
-[La sourde oreille](https://www.rts.ch/play/radio/vacarme/audio/bruits-55-la-sourde-oreille?id=10033328)
+[La sourde oreille](https://www.rts.ch/play/radio/vacarme/audio/bruits-55-la-sourde-oreille?id=10033328)\
+\
+\
+**2017**
+
+### Jeunes et pauvre en Suisse
+
+[La pente dure](https://www.rts.ch/play/radio/vacarme/audio/jeunes-pauvres-15-la-pente-dure?id=9119265)\
+[La haute estime des bas-fonds](https://www.rts.ch/play/radio/vacarme/audio/jeunes-pauvres-25-la-haute-estime-des-bas-fonds?id=9122218)\
+[Des dettes en héritage](https://www.rts.ch/play/radio/vacarme/audio/jeunes-pauvres-35-des-dettes-en-heritage?id=9126108&station=a9e7621504c6959e35c3ecbe7f6bed0446cdf8da)\
+[Le prix de la liberté](https://www.rts.ch/play/radio/vacarme/audio/jeunes-pauvres-45-le-prix-de-la-liberte?id=9129247)\
+[Le refus d'assister](https://www.rts.ch/play/radio/vacarme/audio/jeunes-pauvres-55-le-refus-dassister?id=9132283)
+
+### Risques industriels
+
+[Hautement inflammable](https://www.rts.ch/play/radio/vacarme/audio/risques-industriels-15--hautement-inflammable?id=8964769)\
+[L'usine verte n'est pas verte](https://www.rts.ch/play/radio/vacarme/audio/risques-industriels-25-lusine-verte-nest-pas-verte?id=8968042)\
+[Mühlberg : en réaction au réacteu](https://www.rts.ch/play/radio/vacarme/audio/risques-industriels-35-muehlberg-1-en-reaction-au-reacteur?id=8972143)\
+[Mühlberg : contaminés](https://www.rts.ch/play/radio/vacarme/audio/risques-industriels-45-muehlberg-2-contamines?id=8974972)\
+[Charleroi : à la mémoire des disparus](https://www.rts.ch/play/radio/vacarme/audio/risques-industriels-55-a-la-memoire-des-disparus?id=8977501)
+
+### Le sale boulot
+
+[Main de fer et gant de velours](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-main-de-fer-et-gant-de-velours?id=8840651)\
+[Porter la mauvaise nouvelle](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-porter-la-mauvaise-nouvelle?id=8842824&startTime=1552)\
+[De gré ou de force](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-de-gre-ou-de-force?id=9189495)\
+[Surveiller et saisir](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-surveiller-et-saisir?id=8847999)\
+[Le dernier geste](https://www.rts.ch/play/radio/vacarme/audio/sale-boulot-le-dernier-geste?id=8850217)
