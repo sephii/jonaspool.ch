@@ -51,4 +51,16 @@ weight: 2
 *Oui, les Mohawks constructeurs de gratte-ciels ont aussi le vertige.*\
 \
 [Demain les Innus](https://www.rts.ch/play/radio/le-labo/audio/le-labo?id=6731666)\
-*Nitassinan, territoire ancestral du peuple Innu, morcelé par les mines et les barrages.*
+*Nitassinan, territoire ancestral du peuple Innu, morcelé par les mines et les barrages.*\
+\
+[Pirates de Somalie](https://pages.rts.ch/espace-2/programmes/le-labo/6376865-le-labo-du-04-01-2015.html)\
+*Les pirates ne sont pas toujours ceux qu'on croit.*\
+\
+[Un fertile enfer](https://www.rts.ch/play/radio/le-labo/audio/un-fertile-enfer?id=7315132)\
+*Des réfugiés Hmongs laotiens dans l'Amazonie guyanaise.*\
+\
+\
+2014\
+\
+[Dans la gueule du diable (Brazzaville, 1998)](https://www.rts.ch/play/radio/le-labo/audio/dans-la-gueule-du-diable-brazzaville-1998?id=5463641)\
+*La forêt profonde pour échapper aux miliciens Ninjas et Cobras.*
