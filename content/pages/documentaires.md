@@ -17,4 +17,19 @@ weight: 2
 2019\
 \
 [Virigine Rebetez, une photographe entre deux mondes](https://www.rts.ch/play/radio/le-labo/audio/virginie-rebetez-une-photographe-entre-deux-mondes?id=10916094)\
-*Pour révéler les traces laissées par les morts et les disparus.*
+*Pour révéler les traces laissées par les morts et les disparus.*\
+\
+2018\
+\
+[Un homme sous le volcan](https://www.rts.ch/play/radio/le-labo/audio/un-homme-sous-le-volcan?id=10072410)\
+*Cap Vert, île de Fogo. Danilo Fontes vit dans le cratère.*\
+\
+2017\
+\
+[Les évadés du Spitzberg](https://www.rts.ch/play/radio/le-labo/audio/les-evades-du-spitzberg?id=9000265&station=a83f29dee7a5d0d3f9fccdb9c92161b1afb512db)\
+*Une résidence d'artiste dans l'Arctique sur un voilier maudit.*\
+\
+2016\
+\
+[Accros à la radio](https://pages.rts.ch/espace-2/programmes/le-labo/7796399-le-labo-du-26-06-2016.html)\
+*Il y a la précarité, la drogue, l'alcool et la rue. Il y a désormais la radio.*
