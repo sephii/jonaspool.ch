@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 2
 ---
-© RTS, Le labo / Babylone\
+© RTS, Le Labo / Babylone / Détours / Point de fuite\
 \
 \
 **2020**\
@@ -34,6 +34,8 @@ weight: 2
 [Un homme sous le volcan](https://www.rts.ch/play/radio/le-labo/audio/un-homme-sous-le-volcan?id=10072410)\
 *Cap Vert, île de Fogo. Danilo Fontes cherche sa maison dans le cratère.*\
 \
+[Les enfants du volcan](https://www.rts.ch/play/radio/a-labordage/audio/point-de-fuite-les-enfants-du-volcan?id=9329855)\
+La vie dans la caldeira de Fogo, aux îles du Cap Vert. \
 \
 **2017**\
 \
@@ -45,6 +47,15 @@ weight: 2
 \
 [Accros à la radio](https://pages.rts.ch/espace-2/programmes/le-labo/7796399-le-labo-du-26-06-2016.html)\
 *Il y a la précarité, la drogue, l'alcool et la rue. Il y a désormais la radio.*\
+\
+[Bastogne](https://www.rts.ch/play/radio/detours/audio/bastogne-cyclistes-et-soldats-dans-le-froid?id=7700554)\
+Cyclistes et soldats dans le froid.\
+\
+[Charleroi](https://www.rts.ch/play/radio/detours/audio/charleroi-rallumer-le-feu-du-dragon?id=7725356)\
+Rallumer le feu du dragon.\
+\
+[Liège](https://www.rts.ch/play/radio/detours/audio/liege-simenon-et-lle-doutremeuse?id=7702561)\
+Simenon et l'île d'Outremeuse\
 \
 \
 **2015**\
