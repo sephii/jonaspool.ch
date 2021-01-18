@@ -95,34 +95,34 @@ weight: 1
 \
 **2016**
 
-### Zoos, de l'autre côté des grilles
+### Ces chansons qui nous rassemblent
 
-[Le mal-être animal](https://www.rts.ch/play/radio/vacarme/audio/zoos-15-le-mal-etre-animal?id=10963958)\
-[Les cages et la com’](https://www.rts.ch/play/radio/vacarme/audio/zoos-25-les-cages-et-la-com?id=10966946)\
-[Des carnets pas si roses](https://www.rts.ch/play/radio/vacarme/audio/zoos-35-des-carnets-pas-si-roses?id=10968736)\
-[Le paradis perdu](https://www.rts.ch/play/radio/vacarme/audio/zoos-45-le-paradis-perdu?id=10969773)\
-[Gorilles sans la brume](https://www.rts.ch/play/radio/vacarme/audio/zoos-55-gorille-sans-la-brume?id=10971503)
+[Chants de paysans, chants de combattants](https://www.rts.ch/play/radio/vacarme/audio/ces-chansons-qui-nous-rassemblent-15?id=7369391)\
+[Samba sous la neige](https://www.rts.ch/play/radio/vacarme/audio/ces-chansons-qui-nous-rassemblent-25?id=7371508)\
+[Un nouveau chant pour l'Helvétie](https://www.rts.ch/play/radio/vacarme/audio/ces-chansons-qui-nous-rassemblent-35?id=7373541)\
+[Kara-aux-gays](https://www.rts.ch/play/radio/vacarme/audio/ces-chansons-qui-nous-rassemblent-45?id=7375629)\
+[Ambri-Piotta : la Montanara](https://www.rts.ch/play/radio/vacarme/audio/ces-chansons-qui-nous-rassemblent-55?id=7377475)
 
-### Faut-il craindre l'effondrement ?
+### Des insectes et des hommes
 
-[Collapse or not collapse](https://www.rts.ch/play/radio/vacarme/audio/effondrement-15-collapse-or-not-collapse?id=10729172)\
-[Plus chauds que le climat](https://www.rts.ch/play/radio/vacarme/audio/effondrement-25-plus-chaud-que-le-climat?id=10732917)\
-[Sobre pour survivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-35-sobre-pour-survivre?id=10735087)\
-[La fin du monde, des histoires sans fin](https://www.rts.ch/play/radio/vacarme/audio/effondrement-45-la-fin-du-monde-des-histoires-sans-fin?id=10738533)\
-[Vivre et laisser vivre](https://www.rts.ch/play/radio/vacarme/audio/effondrement-55-vivre-et-laisser-vivre?id=10740862)
+[La nuit des nuisibles](https://www.rts.ch/play/radio/vacarme/audio/des-insectes-et-des-hommes-15?id=7621444)\
+[Une dent contre les insectes](https://www.rts.ch/play/radio/vacarme/audio/des-insectes-et-des-hommes-25?id=8217024)\
+[L'angoisse qui monte qui monte](https://www.rts.ch/play/radio/vacarme/audio/des-insectes-et-des-hommes-35?id=7627023)\
+[La guerre des mouches](https://www.rts.ch/play/radio/vacarme/audio/des-insectes-et-des-hommes-45?id=8219728)\
+[Les hommes-fourmis](https://www.rts.ch/play/radio/vacarme/audio/des-insectes-et-des-hommes-55?id=8220375)
 
-### Un copyright sur les cultures ?
+### Le feu dans les veines
 
-[L'utopie de la world music](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-15-lutopie-de-la-world-music?id=9865055)\
-[Bihor contre Dior](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-25-bihor-contre-dior?id=9869024)\
-[Holi soit qui mal y pense](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-35-holi-soit-qui-mal-y-pense?id=10539232)\
-[Les cultures ne sont pas des costumes](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-45-les-cultures-ne-sont-pas-des-costumes?id=9874386)\
-[Les traditions face à la loi](https://www.rts.ch/play/radio/vacarme/audio/appropriation-culturelle-55-les-traditions-face-a-la-loi?id=9876922&station=a9e7621504c6959e35c3ecbe7f6bed0446cdf8da)
+[Forêt, fille du feu](https://www.rts.ch/play/radio/vacarme/audio/le-feu-dans-les-veines-15?id=7940607)\
+[Revers de flammes](https://www.rts.ch/play/radio/vacarme/audio/le-feu-dans-les-veines-25?id=7943214)\
+[Fouler le feu](https://www.rts.ch/play/radio/vacarme/audio/le-feu-dans-les-veines-35?id=7946744)\
+[Les flammes du désespoir](https://www.rts.ch/play/radio/vacarme/audio/le-feu-dans-les-veines-45?id=8723624)\
+[Le feu aux poudres](https://www.rts.ch/play/radio/vacarme/audio/le-feu-dans-les-veines-55?id=8726200)
 
-### Le pouvoir du son
+### Le porno mis à nu
 
-[Le volume du trafic](https://www.rts.ch/play/radio/vacarme/audio/bruits-15-le-volume-du-trafic?id=10022709)\
-[L'oreille comme cible](https://www.rts.ch/play/radio/vacarme/audio/bruits-25-loreille-comme-cible?id=10025810)\
-[Boucan d'enfer](https://www.rts.ch/play/radio/vacarme/audio/bruits-35-boucan-denfer?id=10028419)\
-[La passion du bruit](https://www.rts.ch/play/radio/vacarme/audio/bruits-45-la-passion-du-bruit?id=10030894)\
-[La sourde oreille](https://www.rts.ch/play/radio/vacarme/audio/bruits-55-la-sourde-oreille?id=10033328)
+[Un conte de fée pour adultes](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-15?id=8026176)\
+[X majuscule](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-25?id=8028977)\
+[Une affaire de famille](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-35?id=8032723)\
+[Sexe en eaux troubles](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-45?id=8035525)\
+[Le porno est mort, vive le porno !](https://www.rts.ch/play/radio/vacarme/audio/le-porno-mis-a-nu-55?id=8038113)
