@@ -19,6 +19,7 @@ weight: 2
 *On a retrouvé les enregistrements des camps de marche de mon adolescence.*\
 \
 \
+\
 **2019**\
 \
 [Virigine Rebetez, une photographe entre deux mondes](https://www.rts.ch/play/radio/le-labo/audio/virginie-rebetez-une-photographe-entre-deux-mondes?id=10916094)\
@@ -38,10 +39,12 @@ weight: 2
 La vie dans la caldeira de Fogo, aux îles du Cap Vert. \
 \
 \
+\
 **2017**\
 \
 [Les évadés du Spitzberg](https://www.rts.ch/play/radio/le-labo/audio/les-evades-du-spitzberg?id=9000265&station=a83f29dee7a5d0d3f9fccdb9c92161b1afb512db)\
 *Une résidence d'artiste dans l'Arctique sur un voilier maudit.*\
+\
 \
 \
 **2016**\
@@ -57,6 +60,7 @@ Rallumer le feu du dragon.\
 \
 [Liège](https://www.rts.ch/play/radio/detours/audio/liege-simenon-et-lle-doutremeuse?id=7702561)\
 Simenon et l'île d'Outremeuse\
+\
 \
 \
 **2015**\
@@ -83,6 +87,7 @@ Simenon et l'île d'Outremeuse\
 *Le voyage initiatique d'une lamellophoniste muette et d'une ethnomusicologue.*\
 \
 \
+\
 **2014**\
 \
 [Dans la gueule du diable (Brazzaville, 1998)](https://www.rts.ch/play/radio/le-labo/audio/dans-la-gueule-du-diable-brazzaville-1998?id=5463641)\
@@ -98,6 +103,7 @@ Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
 *Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
 \
 \
+\
 **2013**\
 \
 [Lignes de vie](https://www.rts.ch/play/radio/le-labo/audio/lignes-de-vies?id=5174734)\
@@ -108,6 +114,7 @@ Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
 \
 [Shéhérazade chez Rose de mai](https://www.rts.ch/play/radio/le-labo/audio/les-1001-nuits-de-sheherazade?id=5003905)\
 *La patronne d'un bordel réinvente les mille et une nuits.*\
+\
 \
 \
 **2012**\
@@ -131,6 +138,7 @@ Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
 *Dans les ateliers du LUFF, festival des cultures souterraines.*\
 \
 \
+\
 **2011**\
 \
 [Brûleurs de frontières](https://www.rts.ch/play/radio/le-labo/audio/les-bruleurs-de-frontiere?id=6844965)\
@@ -138,6 +146,7 @@ Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
 \
 [Le caca c'est pas de la merde](https://www.rts.ch/play/radio/le-labo/audio/le-caca-cest-pas-de-la-m---?id=3491151)\
 *Tout le monde y va, personne n'en parle.*\
+\
 \
 \
 **2009**\
