@@ -91,6 +91,9 @@ Simenon et l'île d'Outremeuse\
 [Djambala, la métamorphose des lucioles](https://www.rts.ch/play/radio/le-labo/audio/djambala-la-metamorphose-des-lucioles?id=5616947)\
 *La modernisation accélérée d'une ville congolaise (RC).*\
 \
+[Obayoum](http://syntone.fr/obayoum-par-jonas-pool/)\
+Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
+\
 [Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
 *Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
 \
