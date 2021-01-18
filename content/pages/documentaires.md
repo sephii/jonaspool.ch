@@ -63,4 +63,37 @@ weight: 2
 2014\
 \
 [Dans la gueule du diable (Brazzaville, 1998)](https://www.rts.ch/play/radio/le-labo/audio/dans-la-gueule-du-diable-brazzaville-1998?id=5463641)\
-*La forêt profonde pour échapper aux miliciens Ninjas et Cobras.*
+*La forêt profonde pour échapper aux miliciens Ninjas et Cobras.*\
+\
+[Djambala, la métamorphose des lucioles](https://www.rts.ch/play/radio/le-labo/audio/djambala-la-metamorphose-des-lucioles?id=5616947)\
+*La modernisation accélérée d'une ville congolaise (RC).*\
+\
+\
+2013\
+\
+[Lignes de vie](https://www.rts.ch/play/radio/le-labo/audio/lignes-de-vies?id=5174734)\
+*Trois nonagénaires ouvrent leurs chambres à trois jeunes adultes inconnus.*\
+\
+[Sava, une légende sans visage](https://www.rts.ch/play/radio/le-labo/audio/sava-une-legende-sans-visage?id=5003570)\
+*Portrait curieux d'un énigmatique absent.*\
+\
+\
+2012\
+\
+[La fabrique du faux-monnayeur](https://www.rts.ch/play/radio/le-labo/audio/la-fabrique-du-faux-monnayeur?id=3856164)\
+*Les témoignages édifiants d'un faussaire et de son fidèle policier, entre autres.*\
+\
+[La Robellaz, 14 toits, 50 âmes](https://www.rts.ch/play/radio/le-labo/audio/la-robellaz-14-toits-50-ames?id=4270884)\
+*Chronique immersive d'un hameau suisse.*\
+\
+[Le mal des ondes](https://www.rts.ch/play/radio/le-labo/audio/le-mal-des-ondes?id=3897749)\
+*Quête d'une zone blanche à l'abri des rayonnements électromagnétiques.*\
+\
+[No a la petrolera !](https://www.rts.ch/play/radio/le-labo/audio/no-a-la-petrolera-?id=4085055)\
+*Aux îles Canaries, Lanzarote se mobilise contre les forages pétroliers.*\
+\
+[Petits arrangements avec la mort des animaux](https://www.rts.ch/play/radio/le-labo/audio/petits-arrangements-avec-la-mort-des-animaux?id=4431228)\
+*La parole à ceux qui tuent.*\
+\
+[Transformer, écouter, recycler](https://www.rts.ch/play/radio/le-labo/audio/transformer-ecouter-recycler--les-ateliers-du-luff?id=4362146)\
+*Dans les ateliers du LUFF, festival des cultures souterraines.*
