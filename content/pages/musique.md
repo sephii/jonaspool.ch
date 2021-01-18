@@ -58,8 +58,8 @@ Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les
 
 ### Alpen Dynamo
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=429165415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://alpendynamo.bandcamp.com/album/alpen-dynamo">alpen dynamo by alpen dynamo</a></iframe>\
-\
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=429165415/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://alpendynamo.bandcamp.com/album/alpen-dynamo">alpen dynamo by alpen dynamo</a></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9DEdJbE9FdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -70,12 +70,12 @@ Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les
 
 Tendance Catalogue se la raconte grave. Son cocktail sucré-acide de musiques synthétiques, de punk et de variété hypercommerciale a séduit les labels les plus pointus. On est sans nouvelle d'eux depuis.
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823676591/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tendancecatalogue.bandcamp.com/album/combat-pop">Combat pop by tendance catalogue</a></iframe>\
-\
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4199145228/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tendancecatalogue.bandcamp.com/album/kein-sex-mit-nazis">Kein sex mit nazis by tendance catalogue</a></iframe>\
-\
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lbqXmoBms4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
-\
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2823676591/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tendancecatalogue.bandcamp.com/album/combat-pop">Combat pop by tendance catalogue</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4199145228/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tendancecatalogue.bandcamp.com/album/kein-sex-mit-nazis">Kein sex mit nazis by tendance catalogue</a></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lbqXmoBms4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iJHao73aV9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
