@@ -13,7 +13,7 @@ weight: 2
 *Conclusion : champignons.*\
 \
 [Bibliothécologie Vol. 1](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-i?id=11762839)\
-*Les bibliothèques dans les archives de la RTS.*\
+*Les bibliothèques dans les archives de la Radio Télévision Suisse.*\
 \
 \
 **2019**\
