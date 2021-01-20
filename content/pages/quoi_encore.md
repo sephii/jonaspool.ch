@@ -7,8 +7,10 @@ weight: 4
 \
 TEXTES\
 \
-[Pour enrichir l'imaginaire polaire](https://drive.google.com/file/d/1iIkIA0jLc42ZOSmFTQ4Codf5tzSYQfI_/view?usp=sharing) (publié dans la revue [Ice Blink](http://maremotrice.ch/fr/publications))\
-[Dj Vulcano](https://unvolcanparjour.fixement.com/dj-vulcano/) (contribution au projet Un volcan par jour de [Fanny Vaucher](https://fixement.com/))\
+[Pour enrichir l'imaginaire polaire](https://drive.google.com/file/d/1iIkIA0jLc42ZOSmFTQ4Codf5tzSYQfI_/view?usp=sharing)\
+(publié dans la revue [Ice Blink](http://maremotrice.ch/fr/publications))\
+[Dj Vulcano](https://unvolcanparjour.fixement.com/dj-vulcano/)\
+(contribution au projet Un volcan par jour de [Fanny Vaucher](https://fixement.com/))\
 [Moby Wonder](https://drive.google.com/file/d/1vBTBOtQ6ZSLOdjejB85uAFaKz8rU3LkE/view?usp=sharing)\
 [Cinq blancs Cacao](https://drive.google.com/file/d/1xDBqiO1737zo9qnZVB6eq-QcZNHRgZbs/view?usp=sharing)\
 [Djambala](https://drive.google.com/file/d/1WCnwGujCtd7q8g7AYyVMyCgFfZrwRKCM/view?usp=sharing)\
