@@ -12,15 +12,11 @@ weight: 0
 [Sept Scaroles video #1](https://www.youtube.com/watch?v=TRBGFnEHG9c)\
 [Sept Scaroles video #2](https://www.youtube.com/watch?v=pEFR3YgjQ24)
 
-
-
 ### Sous-Terre
 
 *Cherche le hip-hop exclusivement sous la terre et sous la mer pour donner la parole aux oubliés du rap : cailloux, racines, animaux enfouis. Muni minimalistement de rythmes électroniques et de champignons analogiques, Sous-Terre smurfe en liberté sous de mal connues surfaces.*\
 \
 [Sous-Terre live at Cave 12](https://sous-terre.bandcamp.com/album/live-at-cave-12-030917)
-
-
 
 ### Trois Collines
 
@@ -29,16 +25,12 @@ weight: 0
 [Trois Collines, ses plus grands tubes](https://troiscollines.bandcamp.com/releases)\
 [Trois Collines, vidéo](https://www.youtube.com/watch?v=6v8JjeGkeU0&feature=youtu.be)
 
-
-
 ### Alpen Dynamo
 
 *Chante français et synthétiseur. Très influencé par.*\
 \
 [Alpen Dynamo : ses plus grands tubes](https://alpendynamo.bandcamp.com/releases)\
 [Alpen dynamo, video](https://www.youtube.com/watch?v=9DEdJbE9FdU)
-
-
 
 ### Tendance Catalogue
 
@@ -48,8 +40,6 @@ weight: 0
 [Tendance Catalogue video #1](https://www.youtube.com/watch?v=lbqXmoBms4Q&t=7s)\
 [Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)\
 [Tendance Catalogue best of radio](https://soundcloud.com/user-604421046/tendancecataloguealaradio)
-
-
 
 ### Skol et les top-fans
 
