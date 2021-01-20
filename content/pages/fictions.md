@@ -49,9 +49,10 @@ weight: 3
 *Chronique sportive diffusée dans l'émission Plus Fort Que Dieu* © RTS\
 \
 \
-**2005** © Fréquence Banane\
+**2005**\
 \
 [Princess Cachalot Show #1](https://soundcloud.com/user-604421046/princesscachalotshow_13-06-2005)\
 [Princess Cachalot Show #2](https://soundcloud.com/user-604421046/princesscachalotshow_20-06-2005)\
 [Princess Cachalot Show #3](https://soundcloud.com/user-604421046/princesscachalotshow_04-07-2005)\
-*L'émission pirate de deux opérateurs radio sur un luxueux bateau de croisière.*
+*L'émission pirate de deux opérateurs radio sur un luxueux bateau de croisière.*\
+ © Fréquence Banane
