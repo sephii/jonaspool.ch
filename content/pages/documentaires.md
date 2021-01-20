@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 2
 ---
-© RTS, Le Labo / Babylone / Détours / Point de fuite © Syntone\
+© RTS, Le Labo / Babylone / Détours / Point de fuite (sauf mention)\
 \
 \
 **2020**\
@@ -97,7 +97,8 @@ Simenon et l'île d'Outremeuse\
 *La modernisation accélérée d'une ville congolaise (RC).*\
 \
 [Obayoum](http://syntone.fr/obayoum-par-jonas-pool/)\
-Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
+*Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.*\
+*© Syntone*\
 \
 [Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
 *Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
@@ -114,7 +115,6 @@ Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.\
 \
 [Shéhérazade chez Rose de mai](https://www.rts.ch/play/radio/le-labo/audio/les-1001-nuits-de-sheherazade?id=5003905)\
 *La patronne d'un bordel réinvente les mille et une nuits.*\
-\
 \
 \
 **2012**\
