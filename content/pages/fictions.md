@@ -54,4 +54,4 @@ weight: 3
 [Princess Cachalot Show #1](https://soundcloud.com/user-604421046/princesscachalotshow_13-06-2005)\
 [Princess Cachalot Show #2](https://soundcloud.com/user-604421046/princesscachalotshow_20-06-2005)\
 [Princess Cachalot Show #3](https://soundcloud.com/user-604421046/princesscachalotshow_04-07-2005)\
-*L'émission pirate de deux opérateurs radio d'un luxueux bateau de croisière.*
+*L'émission pirate de deux opérateurs radio sur un luxueux bateau de croisière.*
