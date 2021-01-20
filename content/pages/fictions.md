@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 3
 ---
-© RTS, Le labo\
+© RTS, Le Labo (sauf mention)\
 \
 \
 **2020**\
@@ -40,4 +40,18 @@ weight: 3
 **2013**\
 \
 [Shéhérazade chez Rose de mai](https://www.rts.ch/play/radio/le-labo/audio/les-1001-nuits-de-sheherazade?id=5003905)\
-*La patronne d'un bordel réinvente les mille et une nuits.*
+*La patronne d'un bordel réinvente les mille et une nuits.*\
+\
+\
+**2008**\
+\
+[La course de chiens de traîneaux](https://soundcloud.com/user-604421046/course-de-chien-de-traineaux)\
+*Chronique sportive diffusée dans l'émission Plus Fort Que Dieu* © RTS\
+\
+\
+**2005** © Fréquence Banane\
+\
+[Princess Cachalot Show #1](https://soundcloud.com/user-604421046/princesscachalotshow_13-06-2005)\
+[Princess Cachalot Show #2](https://soundcloud.com/user-604421046/princesscachalotshow_20-06-2005)\
+[Princess Cachalot Show #3](https://soundcloud.com/user-604421046/princesscachalotshow_04-07-2005)\
+*L'émission pirate de deux opérateurs radio d'un luxueux bateau de croisière.*
