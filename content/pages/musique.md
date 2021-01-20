@@ -20,6 +20,8 @@ Cherche le hip-hop exclusivement sous la terre et sous la mer pour donner la par
 \
 [Sous-Terre live at Cave 12](https://sous-terre.bandcamp.com/album/live-at-cave-12-030917)
 
+
+
 ### Trois Collines
 
 Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les campagnes des trois premiers millénaires.\
@@ -27,14 +29,16 @@ Les errances magnétiques d'un rouleau de bande adhésive dans les villes et les
 [Trois Collines, ses plus grands tubes](https://troiscollines.bandcamp.com/releases)\
 [Trois Collines, vidéo](https://www.youtube.com/watch?v=6v8JjeGkeU0&feature=youtu.be)
 
-### \
-\
-Alpen Dynamo
+
+
+### Alpen Dynamo
 
 Chante français et synthétiseur. Très influencé par.\
 \
 [Alpen Dynamo : ses plus grands tubes](https://alpendynamo.bandcamp.com/releases)\
 [Alpen dynamo, video](https://www.youtube.com/watch?v=9DEdJbE9FdU)
+
+
 
 ### Tendance Catalogue
 
@@ -44,6 +48,8 @@ Tendance Catalogue se la raconte grave. Son cocktail sucré-acide de musiques sy
 [Tendance Catalogue video #1](https://www.youtube.com/watch?v=lbqXmoBms4Q&t=7s)\
 [Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)\
 [Tendance Catalogue best of radio](https://soundcloud.com/user-604421046/tendancecataloguealaradio)
+
+
 
 ### Skol et les top-fans
 
