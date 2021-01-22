@@ -4,7 +4,7 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 1
 ---
-© RTS, Le Labo / Babylone / Détours / Point de fuite (sauf mention)\
+© RTS, Le Labo / Babylone / L'horloge de sable / Détours / Point de fuite (sauf mention)\
 \
 \
 **2020**\
@@ -99,6 +99,9 @@ Simenon et l'île d'Outremeuse\
 [Obayoum](http://syntone.fr/obayoum-par-jonas-pool/)\
 *Surprise lors de l'interview d'un sociologue dans les rues de Brazzaville.*\
 *© Syntone*\
+\
+[Immersion poétique avec Gustave Roud](https://www.rts.ch/play/radio/lhorloge-de-sable/audio/immersion-poetique-avec-gustave-roud?id=5874486)\
+*Chaussé d'archives sur les pas du poète*\
 \
 [Futebol magnético](https://www.rts.ch/play/radio/le-labo/audio/futebol-magnietico?id=5912831)\
 *Le parcours de rêve de l'équipe suisse au mondial brésilien.*\
