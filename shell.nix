@@ -1,1 +1,1 @@
-with import <nixpkgs> { }; mkShell { buildInputs = [ hugo ]; }
+with import <nixpkgs> { }; mkShell { buildInputs = [ hugo optipng ]; }
