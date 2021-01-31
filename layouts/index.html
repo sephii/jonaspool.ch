@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Jonas Pool — Créations sonores</title>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
+    {{ $style := resources.Get "css/main.css" | resources.Minify }}
+    <style>
+      {{ $style.Content | safeCSS }}
+    </style>
   </head>
   <body>
     {{ $pages := sort (where (where .Site.Pages "Kind" "page") "Section" "pages") "Weight" }}
