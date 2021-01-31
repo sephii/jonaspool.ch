@@ -4,45 +4,35 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Jonas Pool</title>
+    <title>Jonas Pool — Créations sonores</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="/main.css" type="text/css" media="screen" />
   </head>
   <body>
     {{ $pages := sort (where (where .Site.Pages "Kind" "page") "Section" "pages") "Weight" }}
 
     <div class="container">
-        <div class="main">
-        <div style="text-align: center">
-        <img src="/images/logo.png" alt="" style="display: block; max-width: 100%"/>
-        </div>
-      <ul class="menu">
-        {{ range $pages }}
-        <li>
-          <a href="#{{ anchorize .Title }}">
-            {{ .Title }}
-          </a>
-        </li>
-        {{ end }}
-      </ul>
-        </div>
+      <nav class="main-nav">
+        <img class="img-block hidden-md-up" src="/images/logo_narrow.png" alt=""/>
+        <img class="img-block hidden-md-down" src="/images/logo.png" alt=""/>
+
+        <ul class="menu">
+          {{ range $pages }}
+            <li>
+              <a href="#{{ anchorize .Title }}">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </nav>
+
       {{ range $pages }}
         <section>
-            <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>
-            {{ .Content }}
+          <h2 id="{{ anchorize .Title }}">{{ .Title }}</h2>
+          {{ .Content }}
         </section>
       {{ end }}
     </div>
-
-    <div class="modal-overlay" id="modal">
-      <div class="modal">
-        <div class="modal__inner"></div>
-      </div>
-      
-    </div>
-    <script type="text/javascript" src="/modal.js"></script>
   </body>
 </html>
