@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://jonaspool.ch/"
+languageCode = "fr-ch"
+title = "Jonas Pool – Créations sonores"
+disableHugoGeneratorInject = true
