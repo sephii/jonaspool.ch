@@ -6,8 +6,6 @@ weight: 1
 ---
 © RTS, Le Labo / Babylone / L'horloge de sable / Détours / Point de fuite (sauf mention)
 
-
-
 **2021**\
 \
 [Bibliothécologie Vol. 3](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-iii?id=12122628)\
