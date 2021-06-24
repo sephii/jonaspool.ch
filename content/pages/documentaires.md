@@ -11,22 +11,22 @@ weight: 1
 **2021**\
 \
 *[BIBLIOTHECOLOGIE VOL. 3](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-iii?id=12122628)*\
-Les bibliothèques dans les archives de la Radio Télévision Suisse.
+*Les bibliothèques dans les archives de la Radio Télévision Suisse.*
 
 *[BIBLIOTHECOLOGIE VOL. 2](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-ii?id=11981359)*\
-Les bibliothèques dans les archives de la Radio Télévision Suisse.\
+*Les bibliothèques dans les archives de la Radio Télévision Suisse.*\
 \
 \
 **2020**\
 \
 *[VIVENT LES SPORES](https://www.rts.ch/play/radio/le-labo/audio/vivent-les-spores?id=11712468)*\
-Conclusion : champignons.\
+*Conclusion : champignons.*\
 \
 *[BIBLIOTHECOLOGIE VOL. 1](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-i?id=11762839)*\
-Les bibliothèques dans les archives de la Radio Télévision Suisse.\
+*Les bibliothèques dans les archives de la Radio Télévision Suisse.*\
 \
 *[LES MARCHEURS](https://www.rts.ch/play/radio/le-labo/audio/les-marcheurs?id=10974395)*\
-On a retrouvé les enregistrements des camps de marche de mon adolescence.\
+*On a retrouvé les enregistrements des camps de marche de mon adolescence.*\
 \
 \
 \
@@ -52,7 +52,7 @@ Cap Vert, île de Fogo. Danilo Fontes cherche sa maison dans le cratère.\
 \
 **2017**\
 \
-[LES EVADES DU SPITZBERG](https://www.rts.ch/play/radio/le-labo/audio/les-evades-du-spitzberg?id=9000265&station=a83f29dee7a5d0d3f9fccdb9c92161b1afb512db)\
+*[LES EVADES DU SPITZBERG](https://www.rts.ch/play/radio/le-labo/audio/les-evades-du-spitzberg?id=9000265&station=a83f29dee7a5d0d3f9fccdb9c92161b1afb512db)*\
 *Une résidence d'artiste dans l'Arctique sur un voilier maudit.*\
 \
 \
