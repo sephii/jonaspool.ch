@@ -7,6 +7,14 @@ weight: 1
 © RTS\
 \
 \
+**2021**
+
+### Des trésors de patience
+
+[Tuer le temps mort](https://www.rts.ch/play/radio/vacarme/audio/patience-15-tuer-le-temps-mort?id=12257305)\
+[Un jour sans fin](https://www.rts.ch/play/radio/vacarme/audio/patience-25-un-jour-sans-fin?id=12261019)\
+[Dans un fleuve peu tranquille](https://www.rts.ch/play/radio/vacarme/audio/patience-35-dans-un-fleuve-peu-tranquille?id=12263811)
+
 **2020**
 
 ### Fascinants faits divers
