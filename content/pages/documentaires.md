@@ -63,13 +63,13 @@ La vie dans la caldeira de Fogo, aux îles du Cap Vert. \
 *Il y a la précarité, la drogue, l'alcool et la rue. Il y a désormais la radio.*\
 \
 [Bastogne](https://www.rts.ch/play/radio/detours/audio/bastogne-cyclistes-et-soldats-dans-le-froid?id=7700554)\
-Cyclistes et soldats dans le froid.\
+*Cyclistes et soldats dans le froid.*\
 \
 [Charleroi](https://www.rts.ch/play/radio/detours/audio/charleroi-rallumer-le-feu-du-dragon?id=7725356)\
-Rallumer le feu du dragon.\
+*Rallumer le feu du dragon.*\
 \
 [Liège](https://www.rts.ch/play/radio/detours/audio/liege-simenon-et-lle-doutremeuse?id=7702561)\
-Simenon et l'île d'Outremeuse\
+*Simenon et l'île d'Outremeuse.*\
 \
 \
 \
