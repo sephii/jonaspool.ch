@@ -10,7 +10,9 @@
     <meta property="og:url" content="https://jonaspool.ch/">
     <meta property="og:type" content="website">
     {{ $style := resources.Get "css/main.css" | resources.Minify }}
+    {{ $normalize := resources.Get "css/normalize.css" | resources.Minify }}
     <style>
+      {{ $normalize.Content | safeCSS }}
       {{ $style.Content | safeCSS }}
     </style>
   </head>
