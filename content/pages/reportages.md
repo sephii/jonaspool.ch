@@ -14,6 +14,8 @@ weight: 2
 [Tuer le temps mort](https://www.rts.ch/play/radio/vacarme/audio/patience-15-tuer-le-temps-mort?id=12257305)\
 [Un jour sans fin](https://www.rts.ch/play/radio/vacarme/audio/patience-25-un-jour-sans-fin?id=12261019)\
 [Dans un fleuve peu tranquille](https://www.rts.ch/play/radio/vacarme/audio/patience-35-dans-un-fleuve-peu-tranquille?id=12263811)\
+[En attendant le grand soir](https://www.rts.ch/play/radio/vacarme/audio/patience-45-en-attendant-le-grand-soir?id=12265979)\
+[La vie aux arrêts](https://www.rts.ch/play/radio/vacarme/audio/patience-55-la-vie-aux-arrets?id=12268922)\
 \
 \
 \
