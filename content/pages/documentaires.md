@@ -10,6 +10,21 @@ weight: 1
 \
 **2021**\
 \
+*[LES DIX COULEURS DU SABLE](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-mauritanie--les-10-couleurs-du-sable?id=12420158)*\
+*Monod, Du Puigaudeau : une mémoire du désert mauritanien.*\
+\
+*[L'ARENE ET LES LOUANGES](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-la-lutte-senegalaise-larene-et-les-louanges-12?id=12423221)*\
+*Cantatrices et reporters-griots dans les arènes de lutte à Dakar.*\
+\
+*[L'ADRENALINE MONTE... CARDIAQUES S'ABSTENIR !](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-la-lutte-senegalaise-ladrenaline-monte-cardiaques-sabstenir-22?id=12425327)*\
+*La lutte sénégalaise est un sport de studio TV.*\
+\
+*[LES GENIES DE OUAKAM](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-senegal-les-genies-de-ouakam-a-dakar?id=12405631#:~:text=Dans%20les%20strates%20invisibles%20du,et%20respect%20que%20les%20habitant.)*\
+*A Dakar, dans les strates de la cosmogonie lébou.*\
+\
+*[RENDRE A LA FRANCE LA MONNAIE DE SA PIECE](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-senegal-franc-cfa-rendre-a-la-france-la-monnaie-de-sa-piece?id=12408787)*\
+*Le franc CFA dans le viseur de panafricanistes sénégalais.*\
+\
 *[BIBLIOTHECOLOGIE VOL. 3](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-iii?id=12122628)*\
 *Les bibliothèques dans les archives de la Radio Télévision Suisse.*
 
