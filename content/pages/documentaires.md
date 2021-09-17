@@ -25,6 +25,9 @@ weight: 1
 *[RENDRE A LA FRANCE LA MONNAIE DE SA PIECE](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-senegal-franc-cfa-rendre-a-la-france-la-monnaie-de-sa-piece?id=12408787)*\
 *Le franc CFA dans le viseur de panafricanistes sénégalais.*\
 \
+*[A LA POURSUITE DU DIAMANT BRUT](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-pape-diop--a-la-poursuite-du-diamant-brut?id=12451480#:~:text=Comme%20une%20obsession%2C%20le%20cr%C3%A9ateur,quartier%20de%20Medina%20%C3%A0%20Dakar.&text=De%20Dakar%20%C3%A0%20Lausanne%2C%20c,collectionneur%20Mamadou%20Diallo%2C%20alias%20Patin.)*\
+*Insaisissable Pape Diop, créateur d'art brut dakarois.*\
+\
 *[BIBLIOTHECOLOGIE VOL. 3](https://www.rts.ch/play/radio/le-labo/audio/bibliothecologie-volume-iii?id=12122628)*\
 *Les bibliothèques dans les archives de la Radio Télévision Suisse.*
 
