@@ -7,7 +7,15 @@ weight: 2
 © RTS\
 \
 \
-**2021**
+**2021**\
+\
+**La voix des adopté·es**
+
+[Retricoter l'histoire](https://www.rts.ch/play/radio/vacarme/audio/adoption-15-retricoter-lhistoire?id=12469798)\
+[L'intime est politique](https://www.rts.ch/play/radio/vacarme/audio/adoption-25-lintime-est-politique?id=12473621)\
+[Arriver et subir](https://www.rts.ch/play/radio/vacarme/audio/adoption-35-arriver-et-subir?id=12476459)\
+[Un beau bizarre](https://www.rts.ch/play/radio/vacarme/audio/adoption-45-un-beau-bizarre?id=12479218)\
+[L'expérience du vide](https://www.rts.ch/play/radio/vacarme/audio/adoption-55-lexperience-du-vide?id=12481686)
 
 ### Des trésors de patience
 
