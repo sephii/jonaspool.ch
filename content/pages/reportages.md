@@ -7,8 +7,9 @@ weight: 2
 © RTS\
 \
 \
-**2021**\
-\
+**2021**
+
+### \
 **La voix des adopté·es**
 
 [Retricoter l'histoire](https://www.rts.ch/play/radio/vacarme/audio/adoption-15-retricoter-lhistoire?id=12469798)\
