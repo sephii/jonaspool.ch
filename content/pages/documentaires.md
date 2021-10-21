@@ -57,17 +57,17 @@ weight: 1
 **2019**\
 \
 *[VIRGINIE REBETEZ, UNE PHOTOGRAPHE ENTRE DEUX MONDES](https://www.rts.ch/play/radio/le-labo/audio/virginie-rebetez-une-photographe-entre-deux-mondes?id=10916094)*\
-Pour révéler les traces laissées par les morts et les disparus.\
+*Pour révéler les traces laissées par les morts et les disparus.*\
 \
 *[CUEILLEUSE DE LUMIERE](https://www.rts.ch/play/radio/le-labo/audio/dakar-le-grand-voyage?id=10104577)* (début à 29'48)\
-Dakar plongée dans la nuit totale.\
+*Dakar plongée dans la nuit totale.*\
 \
 \
 \
 **2018**\
 \
 *[UN HOMME SOUS LE VOLCAN](https://www.rts.ch/play/radio/le-labo/audio/un-homme-sous-le-volcan?id=10072410)*\
-Cap Vert, île de Fogo. Danilo Fontes cherche sa maison dans le cratère.\
+*Cap Vert, île de Fogo. Danilo Fontes cherche sa maison dans le cratère.*\
 \
 *[LES ENFANTS DU VOLCAN](https://www.rts.ch/play/radio/a-labordage/audio/point-de-fuite-les-enfants-du-volcan?id=9329855)*\
 *La vie dans la caldeira de Fogo, aux îles du Cap Vert.* \
