@@ -13,6 +13,12 @@ weight: 1
 *[LES DIX COULEURS DU SABLE](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-mauritanie--les-10-couleurs-du-sable?id=12420158)*\
 *Monod, Du Puigaudeau : une mémoire du désert mauritanien.*\
 \
+*[DES PIROGUES ENTRE DEUX MONDES](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-senegal-des-pirogues-entre-deux-mondes-25768259.html)*\
+*Comme un symbole de la migration sans visas.*
+
+*[BARÇA OU BARSAKH, MIGRER OU MOURIR](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-au-senegal-barca-ou-barsakh-migrer-ou-mourir-25767900.html)*\
+*Il y avait sur cette plage dakaroise une ambassade d'Espagne clandestine.*\
+\
 *[L'ARENE ET LES LOUANGES](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-la-lutte-senegalaise-larene-et-les-louanges-12?id=12423221)*\
 *Cantatrices et reporters-griots dans les arènes de lutte à Dakar.*\
 \
