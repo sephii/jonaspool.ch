@@ -14,13 +14,13 @@ weight: 1
 *Monod, Du Puigaudeau : une mémoire du désert mauritanien.*\
 \
 *[DES PIROGUES ENTRE DEUX MONDES](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-senegal-des-pirogues-entre-deux-mondes-25768259.html)*\
-*Comme un symbole de la migration sans visas.*
+*Comme un symbole de la migration sans visa.*
 
 *[BARÇA OU BARSAKH, MIGRER OU MOURIR](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-au-senegal-barca-ou-barsakh-migrer-ou-mourir-25767900.html)*\
 *Il y avait sur cette plage dakaroise une ambassade d'Espagne clandestine.*\
 \
 *[L'ARENE ET LES LOUANGES](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-la-lutte-senegalaise-larene-et-les-louanges-12?id=12423221)*\
-*Cantatrices et reporters-griots dans les arènes de lutte à Dakar.*\
+*Cantatrices et reporters-griots aux arènes de lutte à Dakar.*\
 \
 *[L'ADRENALINE MONTE... CARDIAQUES S'ABSTENIR !](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-la-lutte-senegalaise-ladrenaline-monte-cardiaques-sabstenir-22?id=12425327)*\
 *La lutte sénégalaise est un sport de studio TV.*\
