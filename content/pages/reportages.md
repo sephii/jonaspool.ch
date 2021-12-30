@@ -10,6 +10,13 @@ weight: 2
 **2021**
 
 ### \
+Internats de luxe
+
+[Une classe au-dessus](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-1-5-une-classe-au-dessus-25782411.html)\
+[Montres, écoles et chocolat](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-2-5-montres-ecoles-et-chocolat-25782699.html)\
+[J'aime pas perdre](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-3-5-j-aime-pas-perdre-25783006.html)\
+[Charité bien ordonnée](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-4-5-charite-bien-ordonnee-25783293.html)\
+[Une bulle dans la bulle](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-5-5-une-bulle-dans-la-bulle-25783597.html)
 
 ### La parole des adopté·es
 
