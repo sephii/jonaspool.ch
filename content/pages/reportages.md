@@ -18,7 +18,7 @@ Internats de luxe
 [Charité bien ordonnée](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-4-5-charite-bien-ordonnee-25783293.html)\
 [Une bulle dans la bulle](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-5-5-une-bulle-dans-la-bulle-25783597.html)
 
-### La parole des adopté·es
+### La voix des adopté·es
 
 [Retricoter l'histoire](https://www.rts.ch/play/radio/vacarme/audio/adoption-15-retricoter-lhistoire?id=12469798)\
 [L'intime est politique](https://www.rts.ch/play/radio/vacarme/audio/adoption-25-lintime-est-politique?id=12473621)\
