@@ -11,7 +11,7 @@ weight: 1
 **2021**\
 \
 *[LE MAÏS A ENCORE SÉCHÉ](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-cap-vert-le-mais-a-encore-seche-25787974.html)*\
-*Une histoire de la traite négrière au Cap Vert.*\
+A*u Cap Vert, les oublié-es de ce Sahel insulaire debout face aux famines.*\
 \
 *[CIDADE VELHA : DU PILORI A L'UNESCO](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-du-pilori-a-l-unesco-l-histoire-de-la-traite-negriere-au-cap-vert-25787694.html#:~:text=Quand%20les%20premiers%20navigateurs%20arrivent,relie%20l%CA%B9Europe%2C%20l%CA%B9Afrique%20et%20l%CA%B9Am%C3%A9rique.)*\
 *Une histoire de la traite négrière au Cap Vert.*\
