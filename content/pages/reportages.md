@@ -11,8 +11,6 @@ weight: 2
 
 ### Internats de luxe
 
-
-
 [Une classe au-dessus](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-1-5-une-classe-au-dessus-25782411.html)\
 [Montres, écoles et chocolat](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-2-5-montres-ecoles-et-chocolat-25782699.html)\
 [J'aime pas perdre](https://www.rts.ch/audio-podcast/2021/audio/internats-de-luxe-3-5-j-aime-pas-perdre-25783006.html)\
