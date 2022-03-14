@@ -119,7 +119,7 @@ weight: 1
 *[MARCHEURS DU CIEL](https://www.rts.ch/play/radio/le-labo/audio/marcheurs-du-ciel?id=6427512)*\
 *Oui, les Mohawks constructeurs de gratte-ciels ont aussi le vertige.*\
 \
-*[DEMAINE LES INNUS](https://www.rts.ch/play/radio/le-labo/audio/le-labo?id=6731666)*\
+*[DEMAINS LES INNUS](https://www.rts.ch/play/radio/le-labo/audio/le-labo?id=6731666)*\
 *Nitassinan, territoire ancestral du peuple Innu, morcelé par les mines et les barrages.*\
 \
 *[PIRATES DE SOMALIE](https://pages.rts.ch/espace-2/programmes/le-labo/6376865-le-labo-du-04-01-2015.html)*\
