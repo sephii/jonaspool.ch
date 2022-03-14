@@ -6,6 +6,16 @@ weight: 2
 ---
 © RTS\
 \
+**2022**
+
+### La loi du plus froid
+
+[Une réserve d'Esquimaux](https://www.rts.ch/audio-podcast/2022/audio/froid-1-5-une-reserve-d-esquimaux-25799362.html)\
+[Au chevet des frigos](https://www.rts.ch/audio-podcast/2022/audio/froid-2-5-au-chevet-des-frigos-25799671.html)\
+[On est pas givrés](https://www.rts.ch/audio-podcast/2022/audio/froid-3-5-on-n-est-pas-givres-25799944.html)\
+[La laine sur le dos](https://www.rts.ch/audio-podcast/2022/audio/froid-4-5-la-laine-sur-le-dos-25800246.html)\
+[Le son des frissons](https://www.rts.ch/audio-podcast/2022/audio/froid-5-5-le-son-des-frissons-25800534.html)\
+\
 \
 **2021**
 
