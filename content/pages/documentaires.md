@@ -7,6 +7,11 @@ weight: 1
 © RTS
 
 \
+**2022**\
+\
+*[PREDATOR JUNIOR](https://www.rts.ch/audio-podcast/2022/audio/predator-junior-25807717.html)*\
+*Ils ont 11 ans : Pierre va à la chasse, Eliott parle aux fourmis.*\
+\
 \
 **2021**\
 \
