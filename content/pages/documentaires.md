@@ -10,6 +10,9 @@ weight: 1
 \
 **2021**\
 \
+*[PREDATOR JUNIOR](https://www.rts.ch/audio-podcast/2022/audio/predator-junior-25807717.html)*\
+*Ils ont 11 ans : Pierre va à la chasse, Eliott parle aux fourmis.*\
+\
 *[LE MAÏS A ENCORE SÉCHÉ](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-cap-vert-le-mais-a-encore-seche-25787974.html)*\
 *Au Cap Vert, les oublié-es de ce Sahel insulaire debout face aux famines.*\
 \
