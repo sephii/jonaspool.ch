@@ -9,6 +9,12 @@ weight: 1
 \
 **2022**\
 \
+*[LA RADIO DE LA MEDUSE, première partie](https://www.rts.ch/audio-podcast/2022/audio/la-radio-de-la-meduse-25814970.html)*\
+*Une petite histoire des accidents radiophoniques.*\
+\
+*[LA RADIO DE LA MEDUSE, deuxième partie](https://www.rts.ch/audio-podcast/2022/audio/la-radio-de-la-meduse-25813861.html)*\
+*Parmi les perles radiophoniques de Claude Mossé, un reportage sème le doute.*\
+\
 *[PREDATOR JUNIOR](https://www.rts.ch/audio-podcast/2022/audio/predator-junior-25807717.html)*\
 *Ils ont 11 ans : Pierre va à la chasse, Eliott parle aux fourmis.*\
 \
@@ -19,7 +25,7 @@ weight: 1
 *Au Cap Vert, les oublié-es de ce Sahel insulaire debout face aux famines.*\
 \
 *[CIDADE VELHA : DU PILORI A L'UNESCO](https://www.rts.ch/audio-podcast/2021/audio/point-de-fuite-du-pilori-a-l-unesco-l-histoire-de-la-traite-negriere-au-cap-vert-25787694.html)*\
-*Une histoire de la traite négrière au Cap Vert.*\
+*Une mémoire de la traite négrière au Cap Vert.*\
 \
 *[LES DIX COULEURS DU SABLE](https://www.rts.ch/play/radio/point-de-fuite/audio/point-de-fuite-mauritanie--les-10-couleurs-du-sable?id=12420158)*\
 *Monod, Du Puigaudeau : une mémoire du désert mauritanien.*\
