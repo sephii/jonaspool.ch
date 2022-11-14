@@ -8,6 +8,14 @@ weight: 2
 \
 **2022**
 
+### Le jeu de l'argent et du hasard
+
+[Le canapé du bonheur](https://www.rts.ch/audio-podcast/2022/audio/jeu-d-argent-1-5-le-canape-du-bonheur-25860827.html)\
+[Perde la boule](https://www.rts.ch/audio-podcast/2022/audio/jeux-d-argent-2-5-perdre-la-boule-25861142.html)\
+[Payer l'addiction](https://www.rts.ch/audio-podcast/2022/audio/jeux-d-argent-3-5-payer-l-addiction-25861450.html)\
+[La maison gagne toujours](https://www.rts.ch/audio-podcast/2022/audio/jeux-d-argent-4-5-la-maison-gagne-toujours-25861805.html)\
+[Mon royaume pour un cheval](https://www.rts.ch/audio-podcast/2022/audio/jeux-d-argent-5-5-mon-royaume-pour-un-cheval-25862126.html)
+
 ### Extraterrestres
 
 [OVNI soit qui mal y pense](https://www.rts.ch/audio-podcast/2022/audio/extraterrestres-1-5-ovni-soit-qui-mal-y-pense-25827213.html)\
