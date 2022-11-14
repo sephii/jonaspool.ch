@@ -12,12 +12,6 @@ weight: 4
 [Sept Scaroles video #1](https://www.youtube.com/watch?v=TRBGFnEHG9c)\
 [Sept Scaroles video #2](https://www.youtube.com/watch?v=pEFR3YgjQ24)
 
-
-
-
-
-
-
 ### Sous-Terre
 
 *Cherche le hip-hop exclusivement sous la terre et sous la mer pour donner la parole aux oubliés du rap : cailloux, racines, animaux enfouis. Muni minimalistement de rythmes électroniques et de champignons analogiques, Sous-Terre smurfe en liberté sous de mal connues surfaces.*\
@@ -42,11 +36,13 @@ weight: 4
 
 *Tendance Catalogue se la raconte grave. Son cocktail sucré-acide de musiques synthétiques, de punk et de variété hypercommerciale a séduit les labels les plus pointus. On est sans nouvelle d'eux depuis.*
 
-[Tendance Catalogue : leurs plus grands tubes](https://tendancecatalogue.bandcamp.com/)\
+Tendance Catalogue : leurs plus grands tubes\
 [Tendance Catalogue video #1](https://www.youtube.com/watch?v=lbqXmoBms4Q&t=7s)\
 [Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)\
 [Tendance Catalogue best of radio](https://soundcloud.com/user-604421046/tendancecataloguealaradio)
 
 ### Skol et les top-fans
 
-*bientôt...*
+*En mélangeant comptines pour enfants hyperactifs, hip-hop frustré, zouk suédois et dance music de station de ski, Skol & les top-fans a sans prétention, en 1996, créé un style : l'héroïc naze. Un grand moment de parodie et d'exotisme, qui donne envie de partir en vacances dans son jardin.*\
+\
+[Skol et les top-fans : leurs plus grands tubes](https://skoletlestopfans.bandcamp.com/)
