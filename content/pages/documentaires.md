@@ -10,7 +10,7 @@ weight: 1
 **2023**\
 \
 *[L﻿E DERNIER MOT DE LA CABINE](https://www.rts.ch/audio-podcast/2023/audio/le-dernier-mot-de-la-cabine-25894609.html)*\
-*L﻿es cabines téléphoniques meurent, se réinventent ou contre-attaquent*\
+*L﻿es cabines téléphoniques meurent, se réinventent ou contre-attaquent.*\
 \
 \
 **2022**\
