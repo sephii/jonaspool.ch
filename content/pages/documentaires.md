@@ -7,6 +7,12 @@ weight: 1
 © RTS
 
 \
+**2023**\
+\
+*[L﻿E DERNIER MOT DE LA CABINE](https://www.rts.ch/audio-podcast/2023/audio/le-dernier-mot-de-la-cabine-25894609.html)*\
+*L﻿es cabines téléphoniques meurent, se réinventent ou contre-attaquent*\
+\
+\
 **2022**\
 \
 *[LA RADIO DE LA MEDUSE, première partie](https://www.rts.ch/audio-podcast/2022/audio/la-radio-de-la-meduse-25814970.html)*\
