@@ -38,8 +38,7 @@ weight: 4
 
 Tendance Catalogue : leurs plus grands tubes\
 [Tendance Catalogue video #1](https://www.youtube.com/watch?v=lbqXmoBms4Q&t=7s)\
-[Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)\
-[Tendance Catalogue best of radio](https://soundcloud.com/user-604421046/tendancecataloguealaradio)
+[Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)
 
 ### Skol et les top-fans
 
