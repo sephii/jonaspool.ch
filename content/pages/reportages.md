@@ -12,7 +12,6 @@ weight: 2
 
 ### Ambiance, ce petit truc dans l'air
 
-\
 [U﻿n boulot d'enfer](https://www.rts.ch/audio-podcast/2023/audio/ambiance-1-5-un-boulot-d-enfer-25897946.html)\
 [L﻿es bonnes vibes](https://www.rts.ch/audio-podcast/2023/audio/ambiance-2-5-les-bonnes-vibes-25897953.html)\
 [A﻿fter-ski](https://www.rts.ch/audio-podcast/2023/audio/ambiance-3-5-after-ski-25898446.html)\
