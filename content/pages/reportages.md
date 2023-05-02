@@ -4,13 +4,12 @@ date: 2021-01-15T07:09:42.256Z
 description: here’s some RTS
 weight: 2
 ---
-### © RTS\
+© RTS
+
 \
 **2﻿023**\
 \
-\
-\
-**A﻿mbiance, ce petit truc dans l'air**
+Le jeu de l'argent et du hasard
 
 \
 **[U﻿n boulot d'enfer](https://www.rts.ch/audio-podcast/2023/audio/ambiance-1-5-un-boulot-d-enfer-25897946.html)**\
