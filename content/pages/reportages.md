@@ -10,6 +10,17 @@ weight: 2
 \
 **2023**
 
+### Touriste, moi ? Jamais !
+
+[﻿L'enfer au paradis](https://www.rts.ch/audio-podcast/2023/audio/touristes-1-5-l-enfer-au-paradis-26134090.html)\
+[L﻿es bonnes vibes](https://www.rts.ch/audio-podcast/2023/audio/ambiance-2-5-les-bonnes-vibes-25897953.html)[L﻿'île de la tentation](https://www.rts.ch/audio-podcast/2023/audio/touristes-2-5-l-ile-de-la-tentation-26134099.html)\
+[A﻿fter-ski](https://www.rts.ch/audio-podcast/2023/audio/ambiance-3-5-after-ski-25898446.html)[T﻿ristes tropiques](https://www.rts.ch/audio-podcast/2023/audio/touristes-3-5-tristes-tropiques-26134098.html)\
+[D﻿u baume pour l'âme](https://www.rts.ch/audio-podcast/2023/audio/ambiance-4-5-du-baume-pour-l-ame-25898451.html)[R﻿outard : s﻿uivez le guide](https://www.rts.ch/audio-podcast/2023/audio/touristes-4-5-suivez-le-guide-26134097.html)\
+[L﻿e sens des masses](https://www.rts.ch/audio-podcast/2023/audio/ambiance-5-5-le-sens-des-masses-25897955.html)[Latourex : tous les ailleurs se valent](https://www.rts.ch/audio-podcast/2023/audio/touristes-5-5-tous-les-ailleurs-se-valent-26134096.html)
+
+\
+**2023**
+
 ### Ambiance, ce petit truc dans l'air
 
 [U﻿n boulot d'enfer](https://www.rts.ch/audio-podcast/2023/audio/ambiance-1-5-un-boulot-d-enfer-25897946.html)\
