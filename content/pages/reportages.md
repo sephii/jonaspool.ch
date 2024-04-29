@@ -8,6 +8,24 @@ weight: 2
 
 \
 \
+**2﻿024**
+
+### Grandes surfaces
+
+[﻿](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-1-5-des-racines-et-des-eleves-26952181.html)[L﻿e centre du monde](https://www.rts.ch/audio-podcast/2024/audio/supermarches-1-5-le-centre-du-monde-28483215.html)\
+[](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-2-5-l-amour-vache-26952182.html)[](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-2-5-l-amour-vache-26952182.html)[S﻿uper-actions et vérités](https://www.rts.ch/audio-podcast/2024/audio/supermarches-2-5-super-actions-et-verites-28483229.html)\
+[L﻿'ogre et les enfants](https://www.rts.ch/audio-podcast/2024/audio/supermarches-3-5-l-ogre-et-les-enfants-28483235.html)\
+[](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-4-5-faire-tomber-les-murs-26952188.html)[U﻿ne oreille dans le caddie](https://www.rts.ch/audio-podcast/2024/audio/supermarches-4-5-une-oreille-dans-le-caddie-28483252.html)
+
+### C﻿uratelles
+
+[D﻿irection assistée](https://www.rts.ch/audio-podcast/2024/audio/curatelles-1-5-direction-assistee-28388780.html)\
+[](https://www.rts.ch/audio-podcast/2024/audio/supermarches-2-5-super-actions-et-verites-28483229.html)[P﻿endre le curateur](https://www.rts.ch/audio-podcast/2024/audio/curatelles-2-5-pendre-le-curateur-28388790.html)\
+[﻿Réparer le système](https://www.rts.ch/audio-podcast/2024/audio/curatelles-3-5-reparer-le-systeme-28388802.html)[](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-3-5-a-la-vie-a-la-mort-26952186.html)\
+﻿[Les cordons de la bourse](https://www.rts.ch/audio-podcast/2024/audio/curatelles-4-5-les-cordons-de-la-bourse-28388817.html)\
+[J﻿ugé capable](https://www.rts.ch/audio-podcast/2024/audio/curatelles-5-5-juge-capable-28388824.html)
+
+\
 **2023**
 
 ### Tomber en amitié
