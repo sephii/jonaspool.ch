@@ -36,7 +36,7 @@ weight: 4
 
 *Tendance Catalogue se la raconte grave. Son cocktail sucré-acide de musiques synthétiques, de punk et de variété hypercommerciale a séduit les labels les plus pointus. On est sans nouvelle d'eux depuis.*
 
-Tendance Catalogue : leurs plus grands tubes\
+[Tendance Catalogue : leurs plus grands tubes](https://tendancecatalogue.bandcamp.com/)\
 [Tendance Catalogue video #1](https://www.youtube.com/watch?v=lbqXmoBms4Q&t=7s)\
 [Tendance Catalogue video #2](https://www.youtube.com/watch?v=iJHao73aV9A)
 
