@@ -10,6 +10,13 @@ weight: 2
 \
 **2﻿024**
 
+### Le poids du mensonge
+
+[﻿L'﻿amour en salade](https://www.rts.ch/audio-podcast/2024/audio/mensonge-1-5-l-amour-en-salades-28606266.html)\
+[L﻿es moyens de vous faire parler](https://www.rts.ch/audio-podcast/2024/audio/mensonge-2-5-les-moyens-de-vous-faire-parler-28606281.html)\
+[D﻿ans l'étau d'un mytho](https://www.rts.ch/audio-podcast/2024/audio/mensonge-3-5-dans-l-etau-d-un-mytho-28606285.html)\
+[L﻿e fardeau de la preuve](https://www.rts.ch/audio-podcast/2024/audio/mensonge-4-5-le-fardeau-de-la-preuve-28606282.html)
+
 ### Grandes surfaces : au rayon de nos habitudes
 
 [﻿](https://www.rts.ch/audio-podcast/2023/audio/tomber-en-amitie-1-5-des-racines-et-des-eleves-26952181.html)[L﻿e centre du monde](https://www.rts.ch/audio-podcast/2024/audio/supermarches-1-5-le-centre-du-monde-28483215.html)\
