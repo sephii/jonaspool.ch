@@ -10,6 +10,13 @@ weight: 2
 \
 **2﻿024**
 
+### Noblesse, le monde vu de haut
+
+[Le dernier rameau de l’arbre](https://www.rts.ch/audio-podcast/2025/audio/noblesse-1-5-le-dernier-rameau-de-l-arbre-28774437.html)\
+[Le charme discret de l’aristocratie](https://www.rts.ch/audio-podcast/2025/audio/noblesse-2-5-le-charme-discret-de-l-aristocratie-28774439.html)\
+[Le roi est mort, vive le business](https://www.rts.ch/audio-podcast/2025/audio/noblesse-3-5-le-roi-est-mort-vive-le-business-28774445.html)\
+[Redorer le blason](https://www.rts.ch/audio-podcast/2025/audio/noblesse-4-5-redorer-le-blason-28774444.html)
+
 ### Le poids du mensonge
 
 [﻿L'﻿amour en salade](https://www.rts.ch/audio-podcast/2024/audio/mensonge-1-5-l-amour-en-salades-28606266.html)\
