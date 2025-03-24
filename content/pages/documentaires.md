@@ -7,6 +7,13 @@ weight: 1
 © RTS
 
 \
+
+**2025**\
+\
+[JUSQU'AU DERNIER KILOMETRE](https://www.rts.ch/audio-podcast/2025/audio/radios-d-afrique-jusqu-au-dernier-kilometre-28831075.html)\
+*La production radiophonique africaine des studios de la Fondation Hirondelle.*\
+\
+\
 **2023**\
 \
 *[L﻿E DERNIER MOT DE LA CABINE](https://www.rts.ch/audio-podcast/2023/audio/le-dernier-mot-de-la-cabine-25894609.html)*\
