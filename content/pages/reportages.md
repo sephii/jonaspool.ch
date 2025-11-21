@@ -14,8 +14,8 @@ weight: 2
 
 [Un corps dans les algues](https://www.rts.ch/audio-podcast/2025/audio/noyades-1-5-un-corps-dans-les-algues-29010030.html)\
 [Piscine pudique](https://www.rts.ch/audio-podcast/2025/audio/noyades-2-5-piscine-pudique-29010029.html)\
-[Perdre pied (Cameroun)](https://www.rts.ch/audio-podcast/2025/audio/noyades-3-5-perdre-pied-29010034.html)\
-[Comme un poisson dans le fleuve (Cameroun)](https://www.rts.ch/audio-podcast/2025/audio/noyades-4-5-comme-un-poisson-dans-le-fleuve-29010033.html)
+[Perdre pied - Cameroun](https://www.rts.ch/audio-podcast/2025/audio/noyades-3-5-perdre-pied-29010034.html) 
+[Comme un poisson dans le fleuve - Cameroun](https://www.rts.ch/audio-podcast/2025/audio/noyades-4-5-comme-un-poisson-dans-le-fleuve-29010033.html)
 
 ### Noblesse, le monde vu de haut
 
