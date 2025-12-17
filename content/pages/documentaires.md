@@ -6,9 +6,11 @@ weight: 1
 ---
 © RTS
 
-
 \
 **2025**\
+\
+*[UMARELLS, LA RETRAITE EN CHANTIERS](https://www.rts.ch/audio-podcast/2025/audio/umarells-la-retraite-en-chantiers-29083504.html)*\
+*Mains ridées dans le dos, désormais inutiles pour ces travaux, ils sont pourtant là.*\
 \
 *[JUSQU'AU DERNIER KILOMETRE](https://www.rts.ch/audio-podcast/2025/audio/radios-d-afrique-jusqu-au-dernier-kilometre-28831075.html)*\
 *La production radiophonique africaine des studios de la Fondation Hirondelle.*\
